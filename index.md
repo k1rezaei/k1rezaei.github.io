@@ -16,7 +16,7 @@ advised by
 
 ## Research Interests
 
-- **Deep Learning Robustness and Interpretability:** data poisoning, vision-language models, human-understandable explanability.
+- **Deep Learning Robustness and Interpretability:** data poisoning, vision-language models, human-understandable explainability.
 - **Game Theory:** mechanism design, quality of equilibria.
 
 ## News
