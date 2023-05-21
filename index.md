@@ -4,20 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a first-year Ph.D. student at university of Maryland advised by Prof. Feizi and Prof. Hajiaghayi. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Deep Learning Robustness and Interpretability:** data poisoning, vision-language models, human-understandable explanability.
+- **Game Theory:** mechanism design, quality of equilibria.
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2023]** We submitted our papaer "A Regret Analysis of Repeated Delegated Choice" to NeurIPS 2023!
+- **[May. 2023]** Our paper "Delegating to Multiple Agents" is accepted to EC 2023!
+- **[Apr. 2023]** Two papers "Run-off Election: Improved Provable Defense against Data Poisoning Attacks" and "Text-To-Concept (and Back) via Cross-Model AlignmentText-To-Concept (…" are accepted to ICML 2023!
 
 {% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
