@@ -78,8 +78,11 @@
 </div>
 </li>
 <br>
-<font size=2>
+<font size=2><i>
 <sup>&#945;, &#946;</sup> denotes alphabetical order of authorship. <br>
-* denotes equal contribution. </font>
+* denotes equal contribution. </i></font>
 </ol>
 </div>
+
+
+
