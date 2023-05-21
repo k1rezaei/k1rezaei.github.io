@@ -10,10 +10,9 @@ advised by
  and
  <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>.
  
- My research centers around Deep Learning Robustness and Interpretability, with a keen interest in comprehending what models learn, how they utilize their knowledge for predictions, and understanding their successes and failures. I strive to represent these concepts in easily understandable terms, often leveraging languages.
-
-In addition to my work in Deep Learning Robustness and Interpretability, I have also contributed to the field of provable defense in Data Poisoning, where our proposed method achieved state-of-the-art results. Furthermore, I work in Mechanism Design where my focus revolves around delegated choice mechanisms, addressing challenges such as information asymmetry and misaligned utility between principals and agents.
-
+ My research centers around Deep Learning Robustness and Interpretability, with a keen interest in comprehending what models learn, how they utilize their knowledge for predictions, and understanding their successes and failures. I strive to represent these concepts in easily understandable terms, often using languages. I have also contributed to the field of provable defense in Data Poisoning, where our proposed method achieved state-of-the-art results.
+ 
+ In addition to my work in Deep Learning Robustness and Interpretability, I work in the area of Mechanism Design where my focus revolves around delegated choice mechanisms, addressing challenges such as information asymmetry and misaligned utility between principals and agents.
 
 ## Research Interests
 
@@ -25,7 +24,7 @@ In addition to my work in Deep Learning Robustness and Interpretability, I have 
 - **[May. 2023]** Our paper "Delegating to Multiple Agents" is accepted to EC 2023!
 - **[Apr. 2023]** Our paper "Run-off Election: Improved Provable Defense against Data Poisoning Attacks" is accepted to ICML 2023!
 - **[Apr. 2023]** Our paper "Text-To-Concept (and Back) via Cross-Model Alignment" is accepted to ICML 2023!
-- **[Feb. 2023]** Our team at ICPC North America Championship (NAC) Regional Contest ranked first and we proceed to ICPC NAC 2023 at UCF.
+- **[Feb. 2023]** Our team, UMD RED, is qualified to compete in ICPC NAC 2023 at UCF.
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
