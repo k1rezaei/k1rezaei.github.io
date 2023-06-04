@@ -20,6 +20,7 @@ advised by
 - **Game Theory:** mechanism design, quality of equilibria.
 
 ## News
+- **[May. 2023]** Our team, UMD RED, ranked 3-rd in ICPC NAC 2023 and proceeded to ICPC World Finals 2023.
 - **[May. 2023]** We submitted our manuscript "A Regret Analysis of Repeated Delegated Choice" to be reviewed at NeurIPS 2023!
 - **[May. 2023]** Our paper "Delegating to Multiple Agents" is accepted to EC 2023!
 - **[Apr. 2023]** Our paper "Run-off Election: Improved Provable Defense against Data Poisoning Attacks" is accepted to ICML 2023!
