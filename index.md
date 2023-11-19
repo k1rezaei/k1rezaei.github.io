@@ -21,7 +21,7 @@ advised by
 
 ## News
 - **[Nov 2023]** We posted our draft "Online Advertisements with LLMs: Opportunities and Challenges" on arXiv!
-- **[Oct. 2023]** Our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" is being covered by media!
+- **[Oct. 2023]** Our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" is being covered by
 <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/">Register</a>, 
 <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/">Wired</a>, and 
 <a href="https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/">Arstechnica</a>.
