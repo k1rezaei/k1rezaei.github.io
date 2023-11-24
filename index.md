@@ -25,9 +25,9 @@ advised by
 <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/">Register</a>, 
 <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/">Wired</a>, and 
 <a href="https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/">Arstechnica</a>.
-- **[Sep. 2023]** We submitted two manuscripts "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" to ICLR 2024!
+- **[Sep. 2023]** Two manuscripts "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are on arXiv!
 - **[May. 2023]** Our team, UMD RED, ranked 3-rd in ICPC NAC 2023 and proceeded to ICPC World Finals 2023.
-- **[May. 2023]** We submitted our manuscript "A Regret Analysis of Repeated Delegated Choice" to be reviewed at NeurIPS 2023!
+- **[May. 2023]** We submitted our manuscript "A Regret Analysis of Repeated Delegated Choice" to arXiv!
 - **[May. 2023]** Our paper "Delegating to Multiple Agents" is accepted to EC 2023!
 - **[Apr. 2023]** Our paper "Run-off Election: Improved Provable Defense against Data Poisoning Attacks" is accepted to ICML 2023!
 - **[Apr. 2023]** Our paper "Text-To-Concept (and Back) via Cross-Model Alignment" is accepted to ICML 2023!
