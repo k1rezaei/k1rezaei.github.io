@@ -79,6 +79,32 @@
 </div>
 </li>
 <br>
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/regret/regret.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">EC</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2305.03203">
+    Regret Analysis of Repeated Delegated Choice</a></div>
+    <div class="author">
+    <sup>&#945;, &#946;</sup>
+    MohammadTaghi Hajiaghayi, Mohammad Mahdavi, <strong>Keivan Rezaei</strong>, and Suho Shin</div>
+    <div class="periodical"><em>The Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2310.04884" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/k1rezaei/Run-Off-Election" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+<br>
 <font size=2><i>
 <sup>&#945;, &#946;</sup> denotes alphabetical order of authorship. <br>
 * denotes equal contribution. </i></font>
