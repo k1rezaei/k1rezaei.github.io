@@ -12,7 +12,7 @@ advised by
  
  My research centers around Deep Learning Robustness and Interpretability, with a keen interest in comprehending what models learn, how they utilize their knowledge for predictions, and understanding their successes and failures. I strive to represent these concepts in easily understandable terms, often using languages.
  
- In addition to my work in Deep Learning Robustness and Interpretability, I work in the area of Mechanism Design where my focus revolves around delegated choice mechanisms, addressing challenges such as information asymmetry and misaligned utility between principal and agents.
+ <!-- In addition to my work in Deep Learning Robustness and Interpretability, I work in the area of Mechanism Design where my focus revolves around delegated choice mechanisms, addressing challenges such as information asymmetry and misaligned utility between principal and agents. -->
 
 ## Research Interests
 
@@ -20,9 +20,10 @@ advised by
 - **Game Theory:** mechanism design, quality of equilibria.
 
 ## News
+- **[Jan 2024]** Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to ICLR 2024.
 - **[Dec 2023]** Our paper "Regret Analysis of Repeated Delegated Choice" is accepted to AAAI 2024.
 - **[Nov 2023]** We posted our draft "Online Advertisements with LLMs: Opportunities and Challenges" on arXiv.
-- **[Oct. 2023]** Our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" is covered by
+- **[Oct. 2023]** Our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" was covered by
 <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/">Register</a>, 
 <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/">Wired</a>, and 
 <a href="https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/">Arstechnica</a>.
