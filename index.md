@@ -9,7 +9,6 @@ advised by
 <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a>
  and
  <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>.
- 
  My research centers around Deep Learning Robustness and Interpretability, with a keen interest in comprehending what models learn, how they utilize their knowledge for predictions, and understanding their successes and failures. I strive to represent these concepts in easily understandable terms, often using languages.
  
  <!-- In addition to my work in Deep Learning Robustness and Interpretability, I work in the area of Mechanism Design where my focus revolves around delegated choice mechanisms, addressing challenges such as information asymmetry and misaligned utility between principal and agents. -->
@@ -21,6 +20,7 @@ advised by
 
 ## News
 - **[May 2024]** Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to ICML 2024.
+- **[March 2024]** I will be joining to <a href="">Mosaic</a> at Allen Institute for AI as <strong>research intern</<strong>> in summer 2024!
 - **[Jan 2024]** Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to ICLR 2024.
 - **[Dec 2023]** Our paper "Regret Analysis of Repeated Delegated Choice" is accepted to AAAI 2024.
 - **[Nov 2023]** We posted our draft "Online Advertisements with LLMs: Opportunities and Challenges" on arXiv.
