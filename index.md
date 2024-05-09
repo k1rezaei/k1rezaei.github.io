@@ -20,7 +20,7 @@ advised by
 
 ## News
 - **[May 2024]** Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to ICML 2024.
-- **[March 2024]** I will be joining to <a href="">Mosaic</a> at Allen Institute for AI as <strong>research intern</strong> in summer 2024!
+- **[March 2024]** I will be joining to <a href="">Mosaic</a> at Allen Institute for AI as <strong>Research Intern</strong> in summer 2024!
 - **[Jan 2024]** Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to ICLR 2024.
 - **[Dec 2023]** Our paper "Regret Analysis of Repeated Delegated Choice" is accepted to AAAI 2024.
 - **[Nov 2023]** We posted our draft "Online Advertisements with LLMs: Opportunities and Challenges" on arXiv.
