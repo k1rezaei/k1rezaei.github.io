@@ -20,6 +20,7 @@ advised by
 - **Game Theory:** mechanism design, quality of equilibria.
 
 ## News
+- **[May 2024]** Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to ICML 2024.
 - **[Jan 2024]** Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to ICLR 2024.
 - **[Dec 2023]** Our paper "Regret Analysis of Repeated Delegated Choice" is accepted to AAAI 2024.
 - **[Nov 2023]** We posted our draft "Online Advertisements with LLMs: Opportunities and Challenges" on arXiv.
@@ -27,7 +28,6 @@ advised by
 <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/">Register</a>, 
 <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/">Wired</a>, and 
 <a href="https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/">Arstechnica</a>.
-
 - **[May. 2023]** Our team, UMD RED, ranked 3-rd in ICPC NAC 2023 and proceeded to ICPC World Finals 2023.
 - **[May. 2023]** We submitted our manuscript "Regret Analysis of Repeated Delegated Choice" to arXiv.
 - **[May. 2023]** Our paper "Delegating to Multiple Agents" is accepted to EC 2023.
