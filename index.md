@@ -29,7 +29,6 @@ advised by
 <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/">Wired</a>, and 
 <a href="https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/">Arstechnica</a>.
 - **[May. 2023]** Our team, UMD RED, ranked 3-rd in ICPC NAC 2023 and proceeded to ICPC World Finals 2023.
-- **[May. 2023]** We submitted our manuscript "Regret Analysis of Repeated Delegated Choice" to arXiv.
 - **[May. 2023]** Our paper "Delegating to Multiple Agents" is accepted to EC 2023.
 - **[Apr. 2023]** Our paper "Run-off Election: Improved Provable Defense against Data Poisoning Attacks" is accepted to ICML 2023.
 - **[Apr. 2023]** Our paper "Text-To-Concept (and Back) via Cross-Model Alignment" is accepted to ICML 2023.
