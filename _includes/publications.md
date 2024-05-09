@@ -19,6 +19,7 @@
     <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2310.00164.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/samyadeepbasu/LocoGen" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://github.com/k1rezaei/Text-to-concept/tree/main" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://github.com/k1rezaei/Run-Off-Election" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
@@ -71,7 +72,7 @@
     <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2405.01008" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/samyadeepbasu/LocoGen" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/k1rezaei/Text-to-concept/tree/main" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
