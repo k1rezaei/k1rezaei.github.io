@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## Bio
 
 I am a second-year Ph.D. student at the University of Maryland, 
 advised by
