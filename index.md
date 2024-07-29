@@ -37,7 +37,7 @@ advised by
     <li><strong>[Jan 2024]</strong> Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to ICLR 2024.</li>
     <li><strong>[Dec 2023]</strong> Our paper "Regret Analysis of Repeated Delegated Choice" is accepted to AAAI 2024.</li>
   </ul>
-  <div class="button-container">
+  <div id="show-more" class="button-container">
     <button class="toggle-button" onclick="toggleNews()">Show more</button>
   </div>
 </div>
@@ -56,7 +56,7 @@ advised by
     <li><strong>[Apr. 2023]</strong> Our paper "Text-To-Concept (and Back) via Cross-Model Alignment" is accepted to ICML 2023.</li>
     <li><strong>[Feb. 2023]</strong> Our team, UMD RED, is qualified to compete in ICPC NAC 2023 at UCF.</li>
   </ul>
-  <div class="button-container">
+  <div id="show-less" class="button-container">
     <button class="toggle-button" onclick="toggleNews()">Show less</button>
   </div>
 </div>
@@ -73,7 +73,7 @@ advised by
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 10px;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.2s;
   }
@@ -95,11 +95,11 @@ advised by
     var newsButton = document.getElementById("news").getElementsByTagName("button")[0];
     
     if (moreNews.style.display === "none") {
+        document.getElementById("show-more").style.diplay = "none"
       moreNews.style.display = "block";
-      newsButton.innerText = "Show less";
     } else {
       moreNews.style.display = "none";
-      newsButton.innerText = "Show more";
+    document.getElementById("show-more").style.diplay = "block"
     }
   }
 </script>
