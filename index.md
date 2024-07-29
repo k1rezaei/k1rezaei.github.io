@@ -38,7 +38,7 @@ advised by
     <li><strong>[Dec 2023]</strong> Our paper "Regret Analysis of Repeated Delegated Choice" is accepted to AAAI 2024.</li>
   </ul>
   <div class="button-container">
-    <button class="toggle-button" onclick="toggleNews()">Show more</button>
+    <button id="show-more-button" class="toggle-button" onclick="toggleNews()">Show more</button>
   </div>
 </div>
 
@@ -92,7 +92,7 @@ advised by
 <script>
   function toggleNews() {
     var moreNews = document.getElementById("more-news");
-    var newsButton = document.getElementById("news").getElementsByTagName("button")[0];
+    var newsButton = document.getElementById("show-more-button");
     
     if (moreNews.style.display === "none") {
       moreNews.style.display = "block";
