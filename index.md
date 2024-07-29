@@ -7,7 +7,8 @@ layout: homepage
 I am a second-year Ph.D. student at the University of Maryland, 
 advised by
 <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a>.
- My research centers around Deep Learning Robustness and Interpretability, with a keen interest in comprehending what models learn, how they utilize their knowledge for predictions, and understanding their successes and failures. I strive to represent these concepts in easily understandable terms, often using languages.
+My research revolves around the interpretability and data attribution in machine learning models. I aim to unravel what these models learn, how they leverage their training data, and how they behave in practice. This involves identifying and understanding biases and failure modes within the models. Ultimately, my goal is to enhance model robustness and reliability!
+
  
  <!-- In addition to my work in Deep Learning Robustness and Interpretability, I work in the area of Mechanism Design where my focus revolves around delegated choice mechanisms, addressing challenges such as information asymmetry and misaligned utility between principal and agents. -->
 
@@ -68,7 +69,7 @@ advised by
   }
 
   .toggle-button {
-    background-color: gray;
+    background-color: #d3d3d3; /* Brighter gray */
     color: black;
     border: none;
     border-radius: 5px;
@@ -79,12 +80,12 @@ advised by
   }
 
   .toggle-button:hover {
-    background-color: darkgray;
+    background-color: #c0c0c0; /* Slightly darker gray */
     transform: scale(1.05);
   }
 
   .toggle-button:active {
-    background-color: dimgray;
+    background-color: #a9a9a9; /* Even darker gray */
     transform: scale(1);
   }
 </style>
