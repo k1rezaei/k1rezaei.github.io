@@ -33,11 +33,11 @@ advised by
 <div id="news">
   <ul>
     <li><strong>[May 2024]</strong> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to ICML 2024.</li>
-    <li><strong>[March 2024]</strong> I will be joining <a href="">MOSAIC</a> at Allen Institute for AI (Ai2) as <strong>Research Intern</strong> in summer 2024!</li>
+    <li><strong>[March 2024]</strong> I will be joining <a href="">MOSAIC</a> at Allen Institute for AI as <strong>Research Intern</strong> in summer 2024!</li>
     <li><strong>[Jan 2024]</strong> Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to ICLR 2024.</li>
     <li><strong>[Dec 2023]</strong> Our paper "Regret Analysis of Repeated Delegated Choice" is accepted to AAAI 2024.</li>
   </ul>
-  <div id="show-more" class="button-container">
+  <div class="button-container">
     <button class="toggle-button" onclick="toggleNews()">Show more</button>
   </div>
 </div>
@@ -56,7 +56,7 @@ advised by
     <li><strong>[Apr. 2023]</strong> Our paper "Text-To-Concept (and Back) via Cross-Model Alignment" is accepted to ICML 2023.</li>
     <li><strong>[Feb. 2023]</strong> Our team, UMD RED, is qualified to compete in ICPC NAC 2023 at UCF.</li>
   </ul>
-  <div id="show-less" class="button-container">
+  <div class="button-container">
     <button class="toggle-button" onclick="toggleNews()">Show less</button>
   </div>
 </div>
@@ -68,23 +68,23 @@ advised by
   }
 
   .toggle-button {
-    background-color: #007BFF;
-    color: white;
+    background-color: gray;
+    color: black;
     border: none;
     border-radius: 5px;
-    padding: 10px 20px;
+    padding: 5px 10px;
     font-size: 10px;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.2s;
   }
 
   .toggle-button:hover {
-    background-color: #0056b3;
+    background-color: darkgray;
     transform: scale(1.05);
   }
 
   .toggle-button:active {
-    background-color: #004080;
+    background-color: dimgray;
     transform: scale(1);
   }
 </style>
@@ -95,11 +95,11 @@ advised by
     var newsButton = document.getElementById("news").getElementsByTagName("button")[0];
     
     if (moreNews.style.display === "none") {
-        document.getElementById("show-more").style.diplay = "none"
       moreNews.style.display = "block";
+      newsButton.style.display = "none";
     } else {
       moreNews.style.display = "none";
-    document.getElementById("show-more").style.diplay = "block"
+      newsButton.style.display = "inline";
     }
   }
 </script>
