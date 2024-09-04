@@ -4,7 +4,7 @@ layout: homepage
 
 ## Bio
 
-I am a second-year Ph.D. student at the University of Maryland, 
+I am a third-year Ph.D. student at the University of Maryland, 
 advised by
 <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a>.
 My research revolves around the interpretability and data attribution in machine learning models. I aim to unravel what these models learn, how they leverage their training data, and how they behave in practice. This involves identifying and understanding biases and failure modes within the models. Ultimately, my goal is to enhance model robustness and reliability!
