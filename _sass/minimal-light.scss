@@ -248,12 +248,12 @@ h3, h4, h5, h6 {
 
 h1 {
   font-weight: 500;
-  color:#043361;
+  color:#c74a4a;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:#c74a4a;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -261,11 +261,11 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:rgb(62, 183, 240);
+    color:rgb(217, 80, 94);
   }
 
   h2 {
-    color:rgb(62, 183, 240);
+    color:rgb(217, 80, 94);
   }
 }
 
@@ -282,7 +282,7 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:rgb(203, 80, 80);
   text-decoration:none;
 }
 
