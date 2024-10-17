@@ -6,11 +6,12 @@ layout: homepage
 
 I am a third-year Ph.D. student at the University of Maryland, 
 advised by
-<a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a>.
+<a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a>
+and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>. 
 My research revolves around the interpretability and data attribution in machine learning models. I aim to unravel what these models learn, how they leverage their training data, and how they behave in practice. This involves identifying and understanding biases and failure modes within the models. Ultimately, my goal is to enhance model robustness and reliability!
 
  
- <!-- In addition to my work in Deep Learning Robustness and Interpretability, I work in the area of Mechanism Design where my focus revolves around delegated choice mechanisms, addressing challenges such as information asymmetry and misaligned utility between principal and agents. -->
+<!-- In addition to my work in Deep Learning Robustness and Interpretability, I work in the area of Mechanism Design where my focus revolves around delegated choice mechanisms, addressing challenges such as information asymmetry and misaligned utility between principal and agents. -->
 
 <!-- ## News
 - **[May 2024]** Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to ICML 2024.
@@ -33,10 +34,10 @@ My research revolves around the interpretability and data attribution in machine
 
 <div id="news">
   <ul>
+    <li><strong>[Sep 2024]</strong> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to NeurIPS 2024.</li>
     <li><strong>[May 2024]</strong> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to ICML 2024.</li>
     <li><strong>[March 2024]</strong> I will be joining <a href="">MOSAIC</a> at Allen Institute for AI as <strong>Research Intern</strong> in summer 2024!</li>
     <li><strong>[Jan 2024]</strong> Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to ICLR 2024.</li>
-    <li><strong>[Dec 2023]</strong> Our paper "Regret Analysis of Repeated Delegated Choice" is accepted to AAAI 2024.</li>
   </ul>
   <div class="button-container">
     <button id="show-more-button" class="toggle-button" onclick="toggleNews()">Show more</button>
@@ -45,6 +46,7 @@ My research revolves around the interpretability and data attribution in machine
 
 <div id="more-news" style="display: none;">
   <ul>
+    <li><strong>[Dec 2023]</strong> Our paper "Regret Analysis of Repeated  Delegated Choice" is accepted to AAAI 2024.</li>
     <li><strong>[Nov 2023]</strong> We posted our draft "Online Advertisements with LLMs: Opportunities and Challenges" on arXiv.</li>
     <li><strong>[Oct. 2023]</strong> Our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" was covered by
       <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/">Register</a>, 
