@@ -26,7 +26,7 @@ body {
   line-height:2.5rem;
   margin-right:1rem}
 
-@media (prefers-color-scheme: dark) { .social-icons a {color: #0D9488 !important; }}
+@media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
@@ -104,13 +104,13 @@ body {
   margin:-1.8rem}
 
 .twitter span{
-  background-color:#e1934b}
+  background-color:#4099ff}
 
 .facebook span{
-  background-color:#e1934b}
+  background-color:#4286f4}
 
 .linkedin span{
-  background-color:#e1934b}
+  background-color:#0077B5}
 
 .github span{
   background-color:#000}
@@ -136,16 +136,16 @@ email {
   z-index:10}
 
 .icon-button .icon-twitter{
-  color:#e1934b}
+  color:#4099ff}
 
 .icon-button .icon-facebook{
-  color:#e1934b}
+  color:#4286f4}
 
 .icon-button .icon-github{
   color:#000;}
 
 .icon-button .icon-linkedin{
-  color:#e1934b}
+  color:#0077B5}
 
 .icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
 
@@ -248,12 +248,12 @@ h3, h4, h5, h6 {
 
 h1 {
   font-weight: 500;
-  color:#cd774c;
+  color:#043361;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#cd774c;
+  color:#043361;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -261,11 +261,11 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:#0D9488;
+    color:rgb(62, 183, 240);
   }
 
   h2 {
-    color:#0D9488;
+    color:rgb(62, 183, 240);
   }
 }
 
@@ -282,17 +282,17 @@ h1 {
 }
 
 a {
-  color:#56b9b1;
+  color:#39c;
   text-decoration:none;
 }
 
 a:hover {
-  color:#56b9b1;
+  color:#069;
 }
 
 @media (prefers-color-scheme: dark) {
   a {
-    color:#56b9b1;
+    color:rgb(62, 183, 240);
   }
 }
 
