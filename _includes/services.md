@@ -5,6 +5,8 @@
 <ul style="margin:0 0 5px;">
   <li><a href="https://nips.cc"><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2023</autocolor></a></li>
   <li><a href="https://iclr.cc"><autocolor>International Conference on Learning Representations (ICLR) 2024</autocolor></a></li>
+  <li><a href="https://aaai.org"><autocolor>The Association for the Advancement of Artificial Intelligence (AAAI) 2025</autocolor></a></li>
+  <li><a href="https://iclr.cc"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
   <!-- <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li> -->
 </ul>
