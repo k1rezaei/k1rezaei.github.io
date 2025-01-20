@@ -112,6 +112,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2406.09459">
+    <sup>&#945;, &#946;</sup>
     Ad Auctions for LLMs via Retrieval Augmented Generation</a></div>
     <div class="author">Mohammad Hajiaghayi, Sébastien Lahaie, <strong>Keivan Rezaei</strong>, Suho Shin</div>
     <div class="periodical"><em>Neural Information Processing Systems. <strong>(NeurIPS)</strong>, 2024.</em></div>
