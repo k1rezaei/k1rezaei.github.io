@@ -37,7 +37,8 @@ and addressing compositionality challenges in text-to-image generation.
 
 <div id="news">
   <ul>
-    <li><strong>[Jan 2025]</strong> My internship project "RESTOR: Knowledge Recovery through Machine Unlearning" is now on arXiv.</li>
+    <li><strong>[Jan 2025]</strong> I'll be joining <a href="">Google</a> as Student Researcher for Spring 2025 to work on Data Selection in LLMs.</li>
+    <li><strong>[Jan 2025]</strong> My internship project "RESTOR: Knowledge Recovery through Machine Unlearning" is now on <a href="https://arxiv.org/abs/2411.00204">arXiv</a>.</li>
     <li><strong>[Sep 2024]</strong> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to NeurIPS 2024.</li>
     <li><strong>[May 2024]</strong> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to ICML 2024.</li>
     <li><strong>[March 2024]</strong> I will be joining <a href="">MOSAIC</a> at Allen Institute for AI as <strong>Research Intern</strong> in summer 2024!</li>
