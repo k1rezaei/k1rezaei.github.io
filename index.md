@@ -9,7 +9,6 @@ advised by
 <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a>
 and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>. 
 My research focuses on the interpretability of generative AI models from both a model perspective—localizing knowledge within models, detecting, and explaining their failure modes—and a data perspective, analyzing the impact of individual data points on a model through challenges like unlearning and data selection for language model pretraining.
-
 Furthermore, we have proposed methods for integrating ads into the output of LLMs as a strategy to monetize them effectively.
 
  
@@ -36,11 +35,11 @@ Furthermore, we have proposed methods for integrating ads into the output of LLM
 
 <div id="news">
   <ul>
-    <li><strong>[Jan 2025]</strong> I'll be joining <a href="">Google</a> as Student Researcher for Spring 2025 to work on Data Selection in LLMs.</li>
+    <li><strong>[Jan 2025]</strong> I'll be joining <it>Google</it> as <strong>Student Researcher</strong> for Spring 2025 to work on Data Selection in LLMs.</li>
     <li><strong>[Jan 2025]</strong> My internship project "RESTOR: Knowledge Recovery through Machine Unlearning" is now on <a href="https://arxiv.org/abs/2411.00204">arXiv</a>.</li>
     <li><strong>[Sep 2024]</strong> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to NeurIPS 2024.</li>
     <li><strong>[May 2024]</strong> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to ICML 2024.</li>
-    <li><strong>[March 2024]</strong> I will be joining <a href="">MOSAIC</a> at Allen Institute for AI as <strong>Research Intern</strong> in summer 2024!</li>
+    <li><strong>[March 2024]</strong> I will be joining <it>MOSAIC</it> at Allen Institute for AI (Ai2) as <strong>Research Intern</strong> in summer 2024!</li>
     <li><strong>[Jan 2024]</strong> Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to ICLR 2024.</li>
   </ul>
   <div class="button-container">
