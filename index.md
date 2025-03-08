@@ -35,12 +35,12 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 
 <div id="news">
   <ul>
-    <li><strong>[Jan 2025]</strong> I'll be joining <i>Google</i> as <strong>Student Researcher</strong> for Spring 2025 to work on Data Selection in LLMs.</li>
+    <li><strong>[Jan 2025]</strong> I'll be joining <i>Google as Student Researcher</i> for Spring 2025 to work on data selection in large language model pretraining.</li>
     <li><strong>[Jan 2025]</strong> My internship project "RESTOR: Knowledge Recovery through Machine Unlearning" is now on <a href="https://arxiv.org/abs/2411.00204">arXiv</a>.</li>
-    <li><strong>[Sep 2024]</strong> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to NeurIPS 2024.</li>
-    <li><strong>[May 2024]</strong> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to ICML 2024.</li>
-    <li><strong>[March 2024]</strong> I will be joining <i>MOSAIC</i> at Allen Institute for AI (Ai2) as <strong>Research Intern</strong> in summer 2024!</li>
-    <li><strong>[Jan 2024]</strong> Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to ICLR 2024.</li>
+    <li><strong>[Sep 2024]</strong> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to <i>NeurIPS 2024</i>.</li>
+    <li><strong>[May 2024]</strong> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to <i>ICML 2024</i>.</li>
+    <li><strong>[March 2024]</strong> I will be joining <i>MOSAIC at Allen Institute for AI (Ai2)</i> as <i>Research Intern</i> in summer 2024!</li>
+    <li><strong>[Jan 2024]</strong> Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to <i>ICLR 2024</i>.</li>
   </ul>
   <div class="button-container">
     <button id="show-more-button" class="toggle-button" onclick="toggleNews()">Show more</button>
