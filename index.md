@@ -8,10 +8,9 @@ I am a third-year Ph.D. student at the University of Maryland,
 advised by
 <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a>
 and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>. 
-My research focuses on interpretability and evaluation in Generative AI (GenAI),
-encompassing diverse areas such as detecting failure modes in vision models,
-exploring knowledge localization in language and text-to-image models,
-and addressing compositionality challenges in text-to-image generation.
+My research focuses on the interpretability of generative AI models from both a model perspective—localizing knowledge within models, detecting, and explaining their failure modes—and a data perspective, analyzing the impact of individual data points on a model through challenges like unlearning and data selection for language model pretraining.
+
+Furthermore, we have proposed methods for integrating ads into the output of LLMs as a strategy to monetize them effectively.
 
  
 <!-- In addition to my work in Deep Learning Robustness and Interpretability, I work in the area of Mechanism Design where my focus revolves around delegated choice mechanisms, addressing challenges such as information asymmetry and misaligned utility between principal and agents. -->
