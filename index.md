@@ -42,7 +42,10 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 
 <div id="more-news" style="display: none;">
     <div class="news-item">
-      <span class="news-date-paper">[Jan 24]</span> Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to <i>ICLR 2024</i>.
+      <span class="news-date-paper">[Jan 24]</span> Our paper "PRIME: Prioritizing Interpretability in Failure Mode Extraction" is accepted to <i>ICLR 2024</i>.
+    </div>
+    <div class="news-item">
+      <span class="news-date-paper">[Jan 24]</span> Our paper "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" is accepted to <i>ICLR 2024</i>.
     </div>
     <div class="news-item">
       <span class="news-date-paper">[Dec 23]</span> Our paper "Regret Analysis of Repeated  Delegated Choice" is accepted to AAAI 2024.
@@ -51,7 +54,7 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
       <span class="news-date-blog">[Nov 23]</span> We posted our draft "Online Advertisements with LLMs: Opportunities and Challenges" on arXiv.
     </div>
     <div class="news-item">
-      <span class="news-date-blog">[Oct 23]</span> Our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" was covered by
+      <span class="news-date-blog">[Oct 23]</span> Our work of Robustness of AI-Image Detectors is covered by
           <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/">Register</a>, 
           <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/">Wired</a>, and 
           <a href="https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/">Arstechnica</a>.
