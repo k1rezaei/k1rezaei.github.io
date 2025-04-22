@@ -41,7 +41,7 @@
     <sup>&#945;, &#946;</sup>
     Soheil Feizi, MohammadTaghi Hajiaghayi, Keivan Rezaei, Suho Shin
     </div>
-    <div class="periodical"><em>arXiv <strong>(preprint)</strong></em></div>
+    <div class="periodical"><em>ACM <strong>SIGecom Exchanges 25</strong></em></div>
     <div class="links">
       <a href="https://www.sigecom.org/exchanges/volume_22/2/FEIZI.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
