@@ -148,7 +148,7 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 }
 
 .award-date {
-  color: #006400;
+  color:rgb(122, 35, 6);
   font-weight: bold;
   margin-right: 4px;
 }
