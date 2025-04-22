@@ -13,20 +13,16 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
  
 ## News
 <div id="news">
-  <ul>
-    <li>📜 <strong>[March 2025]</strong> Our paper "Online Advertisements with LLMs: Opportunities and Challenges" is accepted to <i>ACM SIGecom Exchanges 2025</i>.</li> 
-    <li>🎯 <strong>[Jan 2025]</strong> I'll be joining <i>Google as Student Researcher</i> for Spring 2025 to work on data selection in large language model pretraining.</li>
-    <li>📢 <strong>[Jan 2025]</strong> My internship project "RESTOR: Knowledge Recovery through Machine Unlearning" is now on <a href="https://arxiv.org/abs/2411.00204">arXiv</a>.</li>
-    <li>
-    📢 <strong>
-    [Nov 2024]
-    </strong>
+    <div class="news-item"> 📜 <strong>[March 2025]</strong> Our paper "Online Advertisements with LLMs: Opportunities and Challenges" is accepted to <i>ACM SIGecom Exchanges 2025</i>.</div> 
+    <div class="news-item"> 🎯 <strong>[Jan 2025]</strong> I'll be joining <i>Google as Student Researcher</i> for Spring 2025 to work on data selection in large language model pretraining.</div>
+    <div class="news-item"> 📢 <strong>[Jan 2025]</strong> My internship project "RESTOR: Knowledge Recovery through Machine Unlearning" is now on <a href="https://arxiv.org/abs/2411.00204">arXiv</a>.</div>
+    <div class="news-item">
+    📢 <strong> [Nov 2024] </strong>
     See our <a href="https://vision-mech-intp.github.io/2024/11/19/blogpost.html">blogpost</a> on Mechanstic Interpretability Beyond Language Models!
-    </li>
-    <li>📜 <strong>[Sep 2024]</strong> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to <i>NeurIPS 2024</i>.</li>
-    <li>📜 <strong>[May 2024]</strong> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to <i>ICML 2024</i>.</li>
-    <li>🎯 <strong>[March 2024]</strong> I will be joining <i>MOSAIC at Allen Institute for AI (Ai2)</i> as <i>Research Intern</i> in summer 2024!</li>
-  </ul>
+    </div>
+    <div class="news-item"> 📜 <strong>[Sep 2024]</strong> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to <i>NeurIPS 2024</i>.</div>
+    <div class="news-item"> 📜 <strong>[May 2024]</strong> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to <i>ICML 2024</i>.</div>
+    <div class="news-item"> 🎯 <strong>[March 2024]</strong> I will be joining <i>MOSAIC at Allen Institute for AI (Ai2)</i> as <i>Research Intern</i> in summer 2024!</div>
   <div class="button-container">
     <button id="show-more-button" class="toggle-button" onclick="toggleNews()">Show more</button>
   </div>
@@ -59,6 +55,18 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
     <button class="toggle-button" onclick="toggleNews()">Show less</button>
   </div>
 </div>
+
+<style>
+.news-item {
+  padding: 8px 0;
+  font-size: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.news-item:last-child {
+  border-bottom: none;
+}
+</style>
 
 <style>
   .button-container {
