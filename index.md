@@ -42,7 +42,7 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
     <strong>
     [Nov 2024]
     </strong>
-    Check-out our blogpost on "Mechanstic Interpretability Beyond Language Models" <a href="https://vision-mech-intp.github.io/2024/11/19/blogpost.html">here</a>!
+    See our <a href="https://vision-mech-intp.github.io/2024/11/19/blogpost.html">blogpost</a> on Mechanstic Interpretability Beyond Language Models!
     </li>
     <li><strong>[Sep 2024]</strong> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to <i>NeurIPS 2024</i>.</li>
     <li><strong>[May 2024]</strong> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to <i>ICML 2024</i>.</li>
