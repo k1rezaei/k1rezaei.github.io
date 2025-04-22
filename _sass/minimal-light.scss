@@ -282,12 +282,12 @@ h1 {
 }
 
 a {
-  color:#39c;
-  text-decoration:none;
+  color: #043361; /* darker blue */
+  text-decoration: none;
 }
 
 a:hover {
-  color:#069;
+  color: #021f4a; /* even darker when hovered */
 }
 
 @media (prefers-color-scheme: dark) {
