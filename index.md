@@ -13,16 +13,16 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
  
 ## News
 <div id="news">
-    <div class="news-item"> 📜 <strong>[March 2025]</strong> Our paper "Online Advertisements with LLMs: Opportunities and Challenges" is accepted to <i>ACM SIGecom Exchanges 2025</i>.</div> 
-    <div class="news-item"> 🎯 <strong>[Jan 2025]</strong> I'll be joining <i>Google as Student Researcher</i> for Spring 2025 to work on data selection in large language model pretraining.</div>
-    <div class="news-item"> 📢 <strong>[Jan 2025]</strong> My internship project "RESTOR: Knowledge Recovery through Machine Unlearning" is now on <a href="https://arxiv.org/abs/2411.00204">arXiv</a>.</div>
+    <div class="news-item"><span class="news-date-paper">[March 2025]</span> Our paper "Online Advertisements with LLMs: Opportunities and Challenges" is accepted to <i>ACM SIGecom Exchanges 2025</i>.</div> 
+    <div class="news-item"><span class="news-date-internship">[Jan 2025]</span> I'll be joining <i>Google as Student Researcher</i> for Spring 2025 to work on data selection in large language model pretraining.</div>
+    <div class="news-item"><span class="news-date-blog">[Jan 2025]</span> My internship project "RESTOR: Knowledge Recovery through Machine Unlearning" is now on <a href="https://arxiv.org/abs/2411.00204">arXiv</a>.</div>
     <div class="news-item">
-    📢 <strong> [Nov 2024] </strong>
+    <span class="news-date-blog">[Nov 2024]</span>
     See our <a href="https://vision-mech-intp.github.io/2024/11/19/blogpost.html">blogpost</a> on Mechanstic Interpretability Beyond Language Models!
     </div>
-    <div class="news-item"> 📜 <strong>[Sep 2024]</strong> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to <i>NeurIPS 2024</i>.</div>
-    <div class="news-item"> 📜 <strong>[May 2024]</strong> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to <i>ICML 2024</i>.</div>
-    <div class="news-item"> 🎯 <strong>[March 2024]</strong> I will be joining <i>MOSAIC at Allen Institute for AI (Ai2)</i> as <i>Research Intern</i> in summer 2024!</div>
+    <div class="news-item"><span class="news-date-paper">[Sep 2024]</span> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to <i>NeurIPS 2024</i>.</div>
+    <div class="news-item"><span class="news-date-paper">[May 2024]</span> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to <i>ICML 2024</i>.</div>
+    <div class="news-item"><span class="news-date-internship">[March 2024]</span> I will be joining <i>MOSAIC at Allen Institute for AI (Ai2)</i> as <i>Research Intern</i> in summer 2024!</div>
   <div class="button-container">
     <button id="show-more-button" class="toggle-button" onclick="toggleNews()">Show more</button>
   </div>
@@ -32,19 +32,19 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 </div>
 
 <div id="more-news" style="display: none;">
-    <div class="news-item">📜 <strong>[Jan 2024]</strong> Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to <i>ICLR 2024</i>.</div>
-    <div class="news-item"> 📜 <strong>[Dec 2023]</strong> Our paper "Regret Analysis of Repeated  Delegated Choice" is accepted to AAAI 2024.</div>
-    <div class="news-item"> 📢 <strong>[Nov 2023]</strong> We posted our draft "Online Advertisements with LLMs: Opportunities and Challenges" on arXiv.</div>
-    <div class="news-item">📢 <strong>[Oct. 2023]</strong> Our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" was covered by
+    <div class="news-item"><span class="news-date-paper">[Jan 2024]</span> Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to <i>ICLR 2024</i>.</div>
+    <div class="news-item"><span class="news-date-paper">[Dec 2023]</span> Our paper "Regret Analysis of Repeated  Delegated Choice" is accepted to AAAI 2024.</div>
+    <div class="news-item"><span class="news-date-blog">[Nov 2023]</span> We posted our draft "Online Advertisements with LLMs: Opportunities and Challenges" on arXiv.</div>
+    <div class="news-item"><span class="news-date-blog">[Oct. 2023]</span> Our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" was covered by
       <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/">Register</a>, 
       <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/">Wired</a>, and 
       <a href="https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/">Arstechnica</a>.
     </div>
-    <div class="news-item">🏆 <strong>[May 2023]</strong> Our team, UMD RED, ranked 3-rd in ICPC NAC 2023 and proceeded to ICPC World Finals 2023.</div>
-    <div class="news-item">📜 <strong>[May 2023]</strong> Our paper "Delegating to Multiple Agents" is accepted to EC 2023.</div>
-    <div class="news-item">📜 <strong>[Apr. 2023]</strong> Our paper "Run-off Election: Improved Provable Defense against Data Poisoning Attacks" is accepted to ICML 2023.</div>
-    <div class="news-item">📜 <strong>[Apr. 2023]</strong> Our paper "Text-To-Concept (and Back) via Cross-Model Alignment" is accepted to ICML 2023.</div>
-    <div class="news-item">🏆 <strong>[Feb. 2023]</strong> Our team, UMD RED, is qualified to compete in ICPC NAC 2023 at UCF.</div>
+    <div class="news-item"><span class="news-date-competition">[May 2023]</span> Our team, UMD RED, ranked 3-rd in ICPC NAC 2023 and proceeded to ICPC World Finals 2023.</div>
+    <div class="news-item"><span class="news-date-paper">[May 2023]</span> Our paper "Delegating to Multiple Agents" is accepted to EC 2023.</div>
+    <div class="news-item"><span class="news-date-paper">[Apr. 2023]</span> Our paper "Run-off Election: Improved Provable Defense against Data Poisoning Attacks" is accepted to ICML 2023.</div>
+    <div class="news-item"><span class="news-date-paper">[Apr. 2023]</span> Our paper "Text-To-Concept (and Back) via Cross-Model Alignment" is accepted to ICML 2023.</div>
+    <div class="news-item"><span class="news-date-competition">[Feb. 2023]</span> Our team, UMD RED, is qualified to compete in ICPC NAC 2023 at UCF.</div>
   <div class="button-container">
     <button class="toggle-button" onclick="toggleNews()">Show less</button>
   </div>
@@ -53,12 +53,32 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 <style>
 .news-item {
   padding: 8px 0;
-  font-size: 12px;
+  font-size: 13px;
   border-bottom: 1px solid #eee;
 }
 
 .news-item:last-child {
   border-bottom: none;
+}
+
+.news-date-paper {
+  color: #0a4d8c;
+  font-weight: bold;
+}
+
+.news-date-internship {
+  color: #00796b;
+  font-weight: bold;
+}
+
+.news-date-blog {
+  color: #f57c00;
+  font-weight: bold;
+}
+
+.news-date-competition {
+  color: #c62828;
+  font-weight: bold;
 }
 </style>
 
@@ -108,4 +128,3 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
-
