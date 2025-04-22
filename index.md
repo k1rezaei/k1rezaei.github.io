@@ -11,47 +11,27 @@ My research focuses on the interpretability of generative AI models from both a 
 Furthermore, I have proposed methods for integrating ads into the output of LLMs as a strategy to monetize them effectively.
 
  
-<!-- ## News -->
-<!-- <div id="news">
+## News
+<div id="news">
   <ul>
-    <li><strong>[March 2025]</strong> Our paper "Online Advertisements with LLMs: Opportunities and Challenges" is accepted to <i>ACM SIGecom Exchanges 2025</i>.</li> 
-    <li><strong>[Jan 2025]</strong> I'll be joining <i>Google as Student Researcher</i> for Spring 2025 to work on data selection in large language model pretraining.</li>
-    <li><strong>[Jan 2025]</strong> My internship project "RESTOR: Knowledge Recovery through Machine Unlearning" is now on <a href="https://arxiv.org/abs/2411.00204">arXiv</a>.</li>
+    <li>📜 <strong>[March 2025]</strong> Our paper "Online Advertisements with LLMs: Opportunities and Challenges" is accepted to <i>ACM SIGecom Exchanges 2025</i>.</li> 
+    <li>🎯 <strong>[Jan 2025]</strong> I'll be joining <i>Google as Student Researcher</i> for Spring 2025 to work on data selection in large language model pretraining.</li>
+    <li>📢 <strong>[Jan 2025]</strong> My internship project "RESTOR: Knowledge Recovery through Machine Unlearning" is now on <a href="https://arxiv.org/abs/2411.00204">arXiv</a>.</li>
     <li>
-    <strong>
+    📢 <strong>
     [Nov 2024]
     </strong>
     See our <a href="https://vision-mech-intp.github.io/2024/11/19/blogpost.html">blogpost</a> on Mechanstic Interpretability Beyond Language Models!
     </li>
-    <li><strong>[Sep 2024]</strong> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to <i>NeurIPS 2024</i>.</li>
-    <li><strong>[May 2024]</strong> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to <i>ICML 2024</i>.</li>
-    <li><strong>[March 2024]</strong> I will be joining <i>MOSAIC at Allen Institute for AI (Ai2)</i> as <i>Research Intern</i> in summer 2024!</li>
+    <li>📜 <strong>[Sep 2024]</strong> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to <i>NeurIPS 2024</i>.</li>
+    <li>📜 <strong>[May 2024]</strong> Our paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" is accepted to <i>ICML 2024</i>.</li>
+    <li>🎯 <strong>[March 2024]</strong> I will be joining <i>MOSAIC at Allen Institute for AI (Ai2)</i> as <i>Research Intern</i> in summer 2024!</li>
   </ul>
   <div class="button-container">
     <button id="show-more-button" class="toggle-button" onclick="toggleNews()">Show more</button>
   </div>
-</div> -->
+</div>
 
-## News
-<div id="news">
-
-### ✨ Personal Achievements
-<ul class="personal-news">
-  <li><strong>[Jan 2025]</strong> I'll be joining <i>Google as Student Researcher</i> for Spring 2025 to work on data selection in large language model pretraining.</li>
-  <li><strong>[March 2024]</strong> I will be joining <i>MOSAIC at Allen Institute for AI (Ai2)</i> as <i>Research Intern</i> in summer 2024!</li>
-  <li><strong>[May 2023]</strong> Our team, UMD RED, ranked 3rd in ICPC NAC 2023 and proceeded to ICPC World Finals 2023.</li>
-</ul>
-
-### 📝 Publications
-<ul class="publication-news">
-  <li><strong>[March 2025]</strong> Paper "Online Advertisements with LLMs: Opportunities and Challenges" accepted to <i>ACM SIGecom Exchanges 2025</i>.</li>
-  <li><strong>[Sep 2024]</strong> Paper "Ad Auctions for LLMs via Retrieval Augmented Generation" accepted to <i>NeurIPS 2024</i>.</li>
-  <li><strong>[May 2024]</strong> Paper "On Mechanistic Knowledge Localization in Text-to-Image Generative Models" accepted to <i>ICML 2024</i>.</li>
-  <li><strong>[Jan 2024]</strong> Two papers accepted to <i>ICLR 2024</i>: "PRIME" and "Robustness of AI-Image Detectors".</li>
-  <li><strong>[Dec 2023]</strong> Paper "Regret Analysis of Repeated Delegated Choice" accepted to AAAI 2024.</li>
-  <li><strong>[May 2023]</strong> Paper "Delegating to Multiple Agents" accepted to EC 2023.</li>
-  <li><strong>[Apr 2023]</strong> Two papers accepted to ICML 2023: "Run-off Election" and "Text-To-Concept".</li>
-</ul>
 
 <div class="button-container">
   <button id="show-more-button" class="toggle-button" onclick="toggleNews()">Show more</button>
@@ -61,19 +41,19 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 
 <div id="more-news" style="display: none;">
   <ul>
-    <li><strong>[Jan 2024]</strong> Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to <i>ICLR 2024</i>.</li>
-    <li><strong>[Dec 2023]</strong> Our paper "Regret Analysis of Repeated  Delegated Choice" is accepted to AAAI 2024.</li>
-    <li><strong>[Nov 2023]</strong> We posted our draft "Online Advertisements with LLMs: Opportunities and Challenges" on arXiv.</li>
-    <li><strong>[Oct. 2023]</strong> Our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" was covered by
+    <li>📜 <strong>[Jan 2024]</strong> Our papers "PRIME: Prioritizing Interpretability in Failure Mode Extraction" and "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" are accepted to <i>ICLR 2024</i>.</li>
+    <li>📜 <strong>[Dec 2023]</strong> Our paper "Regret Analysis of Repeated  Delegated Choice" is accepted to AAAI 2024.</li>
+    <li>📢 <strong>[Nov 2023]</strong> We posted our draft "Online Advertisements with LLMs: Opportunities and Challenges" on arXiv.</li>
+    <li>📢 <strong>[Oct. 2023]</strong> Our work "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks" was covered by
       <a href="https://www.theregister.com/2023/10/02/watermarking_security_checks/">Register</a>, 
       <a href="https://www.wired.com/story/artificial-intelligence-watermarking-issues/">Wired</a>, and 
       <a href="https://arstechnica.com/ai/2023/10/researchers-show-how-easy-it-is-to-defeat-ai-watermarks/">Arstechnica</a>.
     </li>
-    <li><strong>[May 2023]</strong> Our team, UMD RED, ranked 3-rd in ICPC NAC 2023 and proceeded to ICPC World Finals 2023.</li>
-    <li><strong>[May 2023]</strong> Our paper "Delegating to Multiple Agents" is accepted to EC 2023.</li>
-    <li><strong>[Apr. 2023]</strong> Our paper "Run-off Election: Improved Provable Defense against Data Poisoning Attacks" is accepted to ICML 2023.</li>
-    <li><strong>[Apr. 2023]</strong> Our paper "Text-To-Concept (and Back) via Cross-Model Alignment" is accepted to ICML 2023.</li>
-    <li><strong>[Feb. 2023]</strong> Our team, UMD RED, is qualified to compete in ICPC NAC 2023 at UCF.</li>
+    <li>🏆 <strong>[May 2023]</strong> Our team, UMD RED, ranked 3-rd in ICPC NAC 2023 and proceeded to ICPC World Finals 2023.</li>
+    <li>📜 <strong>[May 2023]</strong> Our paper "Delegating to Multiple Agents" is accepted to EC 2023.</li>
+    <li>📜 <strong>[Apr. 2023]</strong> Our paper "Run-off Election: Improved Provable Defense against Data Poisoning Attacks" is accepted to ICML 2023.</li>
+    <li>📜 <strong>[Apr. 2023]</strong> Our paper "Text-To-Concept (and Back) via Cross-Model Alignment" is accepted to ICML 2023.</li>
+    <li>🏆 <strong>[Feb. 2023]</strong> Our team, UMD RED, is qualified to compete in ICPC NAC 2023 at UCF.</li>
   </ul>
   <div class="button-container">
     <button class="toggle-button" onclick="toggleNews()">Show less</button>
