@@ -3,18 +3,15 @@ layout: homepage
 ---
 
 ## Bio
-<div class="section-bio">
 I am a third-year Ph.D. student at the University of Maryland, 
 advised by
 <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a>
 and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>. 
 My research focuses on the interpretability of generative AI models from both a model perspective—localizing knowledge within models, detecting, and explaining their failure modes—and a data perspective, analyzing the impact of individual data points on a model through challenges like unlearning and data selection for language model pretraining.
 Furthermore, I have proposed methods for integrating ads into the output of LLMs as a strategy to monetize them effectively.
-</div>
 
  
 ## News
-<div class="section-news">
 <div id="news">
   <ul>
     <li><strong>[March 2025]</strong> Our paper "Online Advertisements with LLMs: Opportunities and Challenges" is accepted to <i>ACM SIGecom Exchanges 2025</i>.</li> 
@@ -34,7 +31,6 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
   <div class="button-container">
     <button id="show-more-button" class="toggle-button" onclick="toggleNews()">Show more</button>
   </div>
-</div>
 </div>
 
 <div id="more-news" style="display: none;">
@@ -100,23 +96,6 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
   }
 </script>
 
-<style>
-.section-bio {
-  background-color: #e6f2ff; /* light blue */
-  padding: 20px;
-  border-radius: 12px;
-  margin-bottom: 30px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-}
-
-.section-news {
-  background-color: #fff6e6; /* light orange */
-  padding: 20px;
-  border-radius: 12px;
-  margin-bottom: 30px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-}
-</style>
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
