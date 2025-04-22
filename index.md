@@ -141,8 +141,10 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 }
 
 .news-line {
-  display: flex;
-  align-items: flex-start;
+  display: grid;
+  grid-template-columns: 80px auto;
+  align-items: start;
+  gap: 8px;
 }
 
 .news-date-paper,
