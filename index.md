@@ -47,15 +47,29 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
   </div>
 </div>
 
+## Awards
+
+<div class="award-category">International Collegiate Programming Contest (ICPC)</div>
+<ul class="award-list">
+  <li><strong>2023:</strong> ICPC World Finalist (unable to attend due to visa issues)</li>
+  <li><strong>2023:</strong> 3rd Place, ICPC North America Championship</li>
+  <li><strong>2020:</strong> 33rd Place, ICPC World Finals</li>
+  <li><strong>2019:</strong> 1st Place, Asian Regional Contest</li>
+  <li><strong>2018:</strong> 2nd Place, Asian Regional Contest</li>
+</ul>
+
+<div class="award-category">Olympiad in Informatics</div>
+<ul class="award-list">
+  <li><strong>2018:</strong> Silver Medal, International Olympiad in Informatics (IOI)</li>
+  <li><strong>2018:</strong> Silver Medal, Asia-Pacific Informatics Olympiad (APIO)</li>
+  <li><strong>2017:</strong> Gold Medal, Iranian National Olympiad in Informatics</li>
+  <li><strong>2016:</strong> Silver Medal, Iranian National Olympiad in Informatics</li>
+</ul>
+
 <style>
 .news-item {
   padding: 8px 0;
   font-size: 14px;
-  border-bottom: 1px solid #eee;
-}
-
-.news-item:last-child {
-  border-bottom: none;
 }
 
 .news-date-paper {
@@ -105,6 +119,26 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
     background-color: #a9a9a9; /* Even darker gray */
     transform: scale(1);
   }
+</style>
+
+<style>
+.award-category {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #0a4d8c;
+}
+
+.award-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 10px;
+}
+
+.award-list li {
+  padding: 4px 0;
+  font-size: 14px;
+}
 </style>
 
 <script>
