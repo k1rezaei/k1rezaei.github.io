@@ -68,8 +68,10 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 
 <style>
 .news-item {
-  padding: 8px 0;
+  padding: 2px 0;
   font-size: 14px;
+  border: none;
+  margin: 0;
 }
 
 .news-date-paper {
