@@ -47,24 +47,30 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
   </div>
 </div>
 
+
+{% include_relative _includes/publications.md %}
+
 ## Awards
 
 <div class="award-category">International Collegiate Programming Contest (ICPC)</div>
 <ul class="award-list">
-  <li><strong>2023:</strong> ICPC World Finalist (unable to attend due to visa issues)</li>
-  <li><strong>2023:</strong> 3rd Place, ICPC North America Championship</li>
-  <li><strong>2020:</strong> 33rd Place, ICPC World Finals</li>
-  <li><strong>2019:</strong> 1st Place, Asian Regional Contest</li>
-  <li><strong>2018:</strong> 2nd Place, Asian Regional Contest</li>
+  <li>2023: <strong>ICPC World Finalist</strong> (unable to attend due to visa issues)</li>
+  <li>2023: <strong>3rd Place</strong>, <i>ICPC North America Championship</i></li>
+  <li>2020: <strong>33rd Place</strong>, <i>ICPC World Finals</i></li>
+  <li>2019: <strong>1st Place</strong>, <i>Asian Regional Contest</i></li>
+  <li>2018: <strong>2nd Place</strong>, <i>Asian Regional Contest</i></li>
 </ul>
 
 <div class="award-category">Olympiad in Informatics</div>
 <ul class="award-list">
-  <li><strong>2018:</strong> Silver Medal, International Olympiad in Informatics (IOI)</li>
-  <li><strong>2018:</strong> Silver Medal, Asia-Pacific Informatics Olympiad (APIO)</li>
-  <li><strong>2017:</strong> Gold Medal, Iranian National Olympiad in Informatics</li>
-  <li><strong>2016:</strong> Silver Medal, Iranian National Olympiad in Informatics</li>
+  <li>2018: <strong>Silver Medal</strong>, <i>International Olympiad in Informatics (IOI)</i></li>
+  <li>2018: <strong>Silver Medal</strong>, <i>Asia-Pacific Informatics Olympiad (APIO)</i></li>
+  <li>2017: <strong>Gold Medal</strong>, <i>Iranian National Olympiad in Informatics</i></li>
+  <li>2016: <strong>Silver Medal</strong>, <i>Iranian National Olympiad in Informatics</i></li>
 </ul>
+
+
+{% include_relative _includes/services.md %}
 
 <style>
 .news-item {
@@ -157,7 +163,3 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
     }
   }
 </script>
-
-
-{% include_relative _includes/publications.md %}
-{% include_relative _includes/services.md %}
