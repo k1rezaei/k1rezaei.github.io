@@ -26,9 +26,6 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
   <div class="button-container">
     <button id="show-more-button" class="toggle-button" onclick="toggleNews()">Show more</button>
   </div>
-  <div class="button-container">
-    <button id="show-more-button" class="toggle-button" onclick="toggleNews()">Show more</button>
-  </div>
 </div>
 
 <div id="more-news" style="display: none;">
