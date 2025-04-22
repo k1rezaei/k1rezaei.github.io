@@ -147,6 +147,12 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
   padding: 4px 0;
   font-size: 14px;
 }
+
+.award-date {
+  color: #006400;
+  font-weight: bold;
+  margin-right: 4px;
+}
 </style>
 
 <script>
