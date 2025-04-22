@@ -35,7 +35,7 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 
 <div id="news">
   <ul>
-    <li><strong>[March 2025]</strong> Our paper "Online Advertisements with LLMs: Opportunities and Challenges" is accepted to <i>ACM SIGecom Exchanges 2025</i></li>. 
+    <li><strong>[March 2025]</strong> Our paper "Online Advertisements with LLMs: Opportunities and Challenges" is accepted to <i>ACM SIGecom Exchanges 2025</i>.</li> 
     <li><strong>[Jan 2025]</strong> I'll be joining <i>Google as Student Researcher</i> for Spring 2025 to work on data selection in large language model pretraining.</li>
     <li><strong>[Jan 2025]</strong> My internship project "RESTOR: Knowledge Recovery through Machine Unlearning" is now on <a href="https://arxiv.org/abs/2411.00204">arXiv</a>.</li>
     <li><strong>[Sep 2024]</strong> Our paper "Ad Auctions for LLMs via Retrieval Augmented Generation" is accepted to <i>NeurIPS 2024</i>.</li>
