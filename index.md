@@ -51,7 +51,6 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 {% include_relative _includes/publications.md %}
 
 ## Awards
-
 <div class="award-category">International Collegiate Programming Contest (ICPC)</div>
 <ul class="award-list">
   <li><span class="award-date">[2023]</span> <strong>ICPC World Finalist</strong> (unable to attend due to visa issues)</li>
@@ -133,7 +132,7 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 .award-category {
   font-size: 18px;
   font-weight: bold;
-  margin-top: 20px;
+  margin-top: 2px;
   color: #0a4d8c;
 }
 
