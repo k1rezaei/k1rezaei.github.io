@@ -442,7 +442,7 @@ header ul a strong {
 }
 
 section {
-  width:850px;
+  width:650px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
@@ -468,7 +468,7 @@ footer {
   text-align:center;
 }
 
-@media print, screen and (max-width: 1160px) {
+@media print, screen and (max-width: 960px) {
 
   .pub-row {
   display: flex; 
@@ -523,7 +523,7 @@ footer {
   
 }
 
-@media print, screen and (max-width: 1160px) {
+@media print, screen and (max-width: 960px) {
   body {
     word-wrap:break-word;
     padding:15px;
