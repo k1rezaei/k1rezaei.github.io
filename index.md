@@ -17,6 +17,9 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
       <span class="news-date-internship">[May 25]</span> I’ll be joining <i>Adobe as a Research Intern</i> for Summer 2025, working with the Document Intelligence Lab!
     </div>
     <div class="news-item">
+      <span class="news-date-paper">[Mar 25]</span> Our paper “RESTOR: Knowledge Recovery via Machine Unlearning,” has been accepted to <i>Transactions on Machine Learning Research (TMLR) 2025</i>.
+    </div>
+    <div class="news-item">
       <span class="news-date-paper">[Mar 25]</span> Our paper "Online Advertisements with LLMs: Opportunities and Challenges" is accepted to <i>ACM SIGecom Exchanges 2025</i>.
     </div>
     <div class="news-item">
