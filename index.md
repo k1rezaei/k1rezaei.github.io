@@ -26,9 +26,6 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
       <span class="news-date-internship">[Jan 25]</span> I'll be joining <i>Google as Student Researcher</i> for Spring 2025 to work on data selection in large language model pretraining.
     </div>
     <div class="news-item">
-      <span class="news-date-blog">[Jan 25]</span> My internship project "RESTOR: Knowledge Recovery through Machine Unlearning" is now on <a href="https://arxiv.org/abs/2411.00204">arXiv</a>.
-    </div>
-    <div class="news-item">
       <span class="news-date-blog">[Nov 24]</span>
       See our <a href="https://vision-mech-intp.github.io/2024/11/19/blogpost.html">blogpost</a> on Mechanstic Interpretability Beyond Language Models!
     </div>
