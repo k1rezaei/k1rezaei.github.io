@@ -127,22 +127,22 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 }
 
 .news-date-paper {
-  color: #8B0000;
+  color: #FFFFFF;
   font-weight: bold;
 }
 
 .news-date-internship {
-  color: #00008B;
+  color: #FFFFFF;
   font-weight: bold;
 }
 
 .news-date-blog {
-  color: #4B0082;
+  color: #FFFFFF;
   font-weight: bold;
 }
 
 .news-date-competition {
-  color: #006400;
+  color: #FFFFFF;
   font-weight: bold;
 }
 </style>
