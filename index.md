@@ -86,7 +86,7 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 {% include_relative _includes/publications.md %}
 
 ## Awards
-<div class="award-category">International Collegiate Programming Contest (ICPC)</div>
+### International Collegiate Programming Contest (ICPC)
 <ul class="award-list">
   <li><span class="award-date">[2023]</span> <strong>ICPC World Finalist</strong> (unable to attend due to visa issues)</li>
   <li><span class="award-date">[2023]</span> <strong>3rd Place</strong>, <i>ICPC North America Championship</i></li>
@@ -95,7 +95,7 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
   <li><span class="award-date">[2018]</span> <strong>2nd Place</strong>, <i>Asian Regional Contest</i></li>
 </ul>
 
-<div class="award-category">Olympiad in Informatics</div>
+### Olympiad in Informatics
 <ul class="award-list">
   <li><span class="award-date">[2018]</span> <strong>Silver Medal</strong>, <i>International Olympiad in Informatics (IOI)</i></li>
   <li><span class="award-date">[2018]</span> <strong>Silver Medal</strong>, <i>Asia-Pacific Informatics Olympiad (APIO)</i></li>
@@ -192,7 +192,7 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 }
 
 .award-date {
-  color:rgb(122, 35, 6);
+  color:rgb(255, 255, 255);
   font-weight: bold;
   margin-right: 4px;
 }
