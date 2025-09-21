@@ -3,14 +3,16 @@ layout: homepage
 ---
 
 ## Bio
-I am a third-year Ph.D. student at the University of Maryland, 
-advised by
-<a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a>
-and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>. 
-My research focuses on the interpretability of generative AI models from both a model perspective—localizing knowledge within models, detecting, and explaining their failure modes—and a data perspective, analyzing the impact of individual data points on a model through challenges like unlearning and data selection for language model pretraining.
+I am a fourth-year Ph.D. student at the University of Maryland, 
+advised by <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a> and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>.  My research focuses on the interpretability of generative AI models from both a model perspective—localizing knowledge within models, detecting, and explaining their failure modes—and a data perspective, analyzing the impact of individual data points on a model through challenges like unlearning and data selection for language model pretraining.
 Furthermore, I have proposed methods for integrating ads into the output of LLMs as a strategy to monetize them effectively.
 
- 
+<p style="color:#0a4d8c; font-weight:bold; font-size:15px; margin-top:8px;">
+I am currently on the job market and seeking research positions. I would be glad to connect regarding opportunities in your team.
+</p>
+
+
+
 ## News
 <div id="news">
 <div class="news-item">
