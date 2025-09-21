@@ -15,7 +15,10 @@ I am currently on the job market and seeking research positions. I would be glad
 
 ## News
 <div id="news">
-<div class="news-item">
+    <div class="news-item">
+      <span class="news-date-paper">[Sep 25]</span> Our paper " Localizing Knowledge in Diffusion Transformers" is accepted to <i>NeurIPS 2025</i>.
+    </div>
+    <div class="news-item">
       <span class="news-date-internship">[May 25]</span> I’ll be joining <i>Adobe as a Research Intern</i> for Summer 2025, working with the Document Intelligence Lab!
     </div>
     <div class="news-item">
