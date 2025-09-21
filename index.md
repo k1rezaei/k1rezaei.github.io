@@ -4,7 +4,7 @@ layout: homepage
 
 ## Bio
 I am a fourth-year Ph.D. student at the University of Maryland, 
-advised by <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a> and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>.  My research focuses on the interpretability of generative AI models from both a model perspective—localizing knowledge within models, detecting, and explaining their failure modes—and a data perspective, analyzing the impact of individual data points on a model through challenges like unlearning and data selection for language model *pretraining*.
+advised by <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a> and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>.  My research focuses on the <b>interpretability</b> of generative AI models from both a model perspective—<b>localizing knowledge</b> within models, detecting, and explaining their <b>failure modes</b>—and a data perspective, analyzing the impact of individual data points on a model through challenges like <b>unlearning</b> and <b>data selection</b> for language model <b>pretraining</b>.
 Furthermore, I have proposed methods for integrating ads into the output of LLMs as a strategy to monetize them effectively.
 
 <p style="font-weight:bold; font-size:15px; margin-top:8px;">
@@ -18,7 +18,7 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
     <div class="news-item">
       <span class="news-date-paper">[Sep 25]</span> Our paper "Localizing Knowledge in Diffusion Transformers" is accepted to <i>NeurIPS 2025</i>.
     </div>
-    <div class="news-item"
+    <div class="news-item">
       <span class="news-date-internship">[May 25]</span> I’ll be joining <i>Adobe as a Research Intern</i> for Summer 2025, working with the Document Intelligence Lab!
     </div>
     <div class="news-item">
