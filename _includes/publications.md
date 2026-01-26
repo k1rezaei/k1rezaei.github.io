@@ -14,9 +14,9 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2506.20941">
     Revisiting the Past: Data Unlearning with Model State History</a></div>
-    <div class="author"><strong>Keivan Rezaei</strong>, Mehrdad Saberi, Abhilasha Ravichander*, Soheil Feizi*
+    <div class="author"><strong><b>Keivan Rezaei</b></strong>, Mehrdad Saberi, Abhilasha Ravichander*, Soheil Feizi*
     </div>
-    <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.</em></div>
+    <div class="periodical"><em>International Conference on Learning Representations <strong><b>(ICLR)</b></strong>, 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2506.20941" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/mehrdadsaberi/MSA_unlearning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -37,9 +37,9 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2411.00204">
     RESTOR: Knowledge Recovery in Machine Unlearning</a></div>
-    <div class="author"><strong>Keivan Rezaei</strong>, Khyathi Chandu, Soheil Feizi, Yejin Choi, Faeze Brahman, Abhilasha Ravichander
+    <div class="author"><strong><b>Keivan Rezaei</b></strong>, Khyathi Chandu, Soheil Feizi, Yejin Choi, Faeze Brahman, Abhilasha Ravichander
     </div>
-    <div class="periodical"><em>Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2025</em></div>
+    <div class="periodical"><em>Transactions on Machine Learning Research <strong><b>(TMLR)</b></strong>, 2025</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2411.00204" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/k1rezaei/restor" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -62,9 +62,9 @@
     Online Advertisements with LLMs: Opportunities and Challenges</a></div>
     <div class="author">
     <sup>&#945;, &#946;</sup>
-    Soheil Feizi, MohammadTaghi Hajiaghayi, Keivan Rezaei, Suho Shin
+    Soheil Feizi, MohammadTaghi Hajiaghayi, <b>Keivan Rezaei</b>, Suho Shin
     </div>
-    <div class="periodical"><em>ACM <strong>SIGecom Exchanges 25</strong></em></div>
+    <div class="periodical"><em>ACM <strong><b>SIGecom Exchanges 25</b></strong></em></div>
     <div class="links">
       <a href="https://www.sigecom.org/exchanges/volume_22/2/FEIZI.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -85,9 +85,9 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2405.01008">
     On Mechanistic Knowledge Localization in Text-to-Image Generative Models</a></div>
-    <div class="author">Samyadeep Basu*, <strong>Keivan Rezaei*</strong>, Ryan Rossi, Cherry Zhao, Vlad Morariu, Varun Manjunatha, Soheil Feizi
+    <div class="author">Samyadeep Basu*, <strong><b>Keivan Rezaei*</b></strong>, Ryan Rossi, Cherry Zhao, Vlad Morariu, Varun Manjunatha, Soheil Feizi
     </div>
-    <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong>, 2024.</em></div>
+    <div class="periodical"><em>International Conference on Machine Learning <strong><b>(ICML)</b></strong>, 2024.</em></div>
     <div class="links">
       <a href="https://openreview.net/pdf?id=fsVBsxjRER" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/samyadeepbasu/LocoGen" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -113,9 +113,9 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="arxiv.org/abs/2505.18832">
     Localizing Knowledge in Diffusion Transformers</a></div>
-    <div class="author">Arman Zarei, Samyadeep Basu, <strong>Keivan Rezaei</strong>, Zihao Lin, Sayan Nag, Soheil Feizi
+    <div class="author">Arman Zarei, Samyadeep Basu, <strong><b>Keivan Rezaei</b></strong>, Zihao Lin, Sayan Nag, Soheil Feizi
     </div>
-    <div class="periodical"><em>Neural Information Processing Systems. <strong>(NeurIPS)</strong>, 2025.</em></div>
+    <div class="periodical"><em>Neural Information Processing Systems. <strong><b>(NeurIPS)</b></strong>, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.18832" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://armanzarei.github.io/Localizing-Knowledge-in-DiTs/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -136,7 +136,7 @@
     <div class="title"><a href="https://arxiv.org/abs/2406.07844">
     Improving Compositional Attribute Binding in Text-to-Image Generative Models via Enhanced Text Embeddings</a></div>
     <div class="author">
-    Arman Zarei*, <strong>Keivan Rezaei*</strong>, Samyadeep Basu, Mehrdad Saberi, Mazda Moayeri, Priyatham Kattakinda, Soheil Feizi
+    Arman Zarei*, <strong><b>Keivan Rezaei*</b></strong>, Samyadeep Basu, Mehrdad Saberi, Mazda Moayeri, Priyatham Kattakinda, Soheil Feizi
     </div>
     <div class="periodical"><em>arXiv <strong>(preprint)</strong></em></div>
     <div class="links">
@@ -159,8 +159,8 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://t.co/b5l15ffLZP">
     PRIME: Prioritizing Interpretability in Failure Mode Extraction</a></div>
-    <div class="author"><strong>Keivan Rezaei*</strong>, Mehrdad Saberi*, Mazda Moayeri, and Soheil Feizi</div>
-    <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.</em></div>
+    <div class="author"><strong><b>Keivan Rezaei*</b></strong>, Mehrdad Saberi*, Mazda Moayeri, and Soheil Feizi</div>
+    <div class="periodical"><em>International Conference on Learning Representations <strong><b>(ICLR)</b></strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2310.00164.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/k1rezaei/Text-to-concept/tree/main" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -185,8 +185,8 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2305.06386">
     Text-To-Concept (and Back) via Cross-Model Alignment</a></div>
-    <div class="author">Mazda Moayeri*, <strong>Keivan Rezaei*</strong>, Maziar Sanjabi, and Soheil Feizi</div>
-    <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong>, 2023.</em></div>
+    <div class="author">Mazda Moayeri*, <strong><b>Keivan Rezaei*</b></strong>, Maziar Sanjabi, and Soheil Feizi</div>
+    <div class="periodical"><em>International Conference on Machine Learning <strong><b>(ICML)</b></strong>, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2405.01008" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/k1rezaei/Text-to-concept/tree/main" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -209,8 +209,8 @@
     Ad Auctions for LLMs via Retrieval Augmented Generation</a></div>
     <div class="author">
     <sup>&#945;, &#946;</sup>
-    Mohammad Hajiaghayi, Sébastien Lahaie, <strong>Keivan Rezaei</strong>, Suho Shin</div>
-    <div class="periodical"><em>Neural Information Processing Systems. <strong>(NeurIPS)</strong>, 2024.</em></div>
+    Mohammad Hajiaghayi, Sébastien Lahaie, <strong><b>Keivan Rezaei</b></strong>, Suho Shin</div>
+    <div class="periodical"><em>Neural Information Processing Systems. <strong><b>(NeurIPS)</b></strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2406.09459" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -230,8 +230,8 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2302.02300">
     Run-Off Election: Improved Provable Defense against Data Poisoning Attacks</a></div>
-    <div class="author"><strong>Keivan Rezaei*</strong>, Kiarash Banihashem*, Atoosa Chegini, and Soheil Feizi</div>
-    <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong>, 2023.</em></div>
+    <div class="author"><strong><b>Keivan Rezaei*</b></strong>, Kiarash Banihashem*, Atoosa Chegini, and Soheil Feizi</div>
+    <div class="periodical"><em>International Conference on Machine Learning <strong><b>(ICML)</b></strong>, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2302.02300.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/k1rezaei/Run-Off-Election" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -255,8 +255,8 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2310.00076">
     Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks</a></div>
-    <div class="author">Mehrdad Saberi, Vinu Sankar Sadasivan, <strong>Keivan Rezaei</strong>, Aounon Kumar, Atoosa Chegini, Wenxiao Wang, Soheil Feizi</div>
-    <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.</em></div>
+    <div class="author">Mehrdad Saberi, Vinu Sankar Sadasivan, <strong><b>Keivan Rezaei</b></strong>, Aounon Kumar, Atoosa Chegini, Wenxiao Wang, Soheil Feizi</div>
+    <div class="periodical"><em>International Conference on Learning Representations <strong><b>(ICLR)</b></strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2310.00076.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/k1rezaei/Text-to-concept/tree/main" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -283,8 +283,8 @@
     Multi-agent Delegated Search</a></div>
     <div class="author">
     <sup>&#945;, &#946;</sup>
-    MohammadTaghi Hajiaghayi, <strong>Keivan Rezaei</strong> and Suho Shin</div>
-    <div class="periodical"><em>Conference on Economics and Computation <strong>(EC)</strong>, 2023.</em></div>
+    MohammadTaghi Hajiaghayi, <strong><b>Keivan Rezaei</b></strong> and Suho Shin</div>
+    <div class="periodical"><em>Conference on Economics and Computation <strong><b>(EC)</b></strong>, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2305.03203.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/k1rezaei/Run-Off-Election" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
