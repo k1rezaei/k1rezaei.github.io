@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2506.20941">
     Revisiting the Past: Data Unlearning with Model State History</a></div>
-    <div class="author"><strong>Keivan Rezaei</strong>, Mehrdad Saberi, Abhilasha Ravichander, Soheil Feizi
+    <div class="author"><strong>Keivan Rezaei</strong>, Mehrdad Saberi, Abhilasha Ravichander*, Soheil Feizi*
     </div>
     <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.</em></div>
     <div class="links">
@@ -85,7 +85,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2405.01008">
     On Mechanistic Knowledge Localization in Text-to-Image Generative Models</a></div>
-    <div class="author">Samyadeep Basu*, <strong>Keivan Rezaei*</strong>,Ryan Rossi, Cherry Zhao, Vlad Morariu, Varun Manjunatha, Soheil Feizi
+    <div class="author">Samyadeep Basu*, <strong>Keivan Rezaei*</strong>, Ryan Rossi, Cherry Zhao, Vlad Morariu, Varun Manjunatha, Soheil Feizi
     </div>
     <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong>, 2024.</em></div>
     <div class="links">
