@@ -15,6 +15,9 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 
 ## News
 <div id="news">
+<div class="news-item">
+      <span class="news-date-paper">[Jan 26]</span> Our paper "Revisiting the Past: Data Unlearning with Model State History Transformers" is accepted to <i>ICLR 2026</i>.
+    </div>
     <div class="news-item">
       <span class="news-date-paper">[Sep 25]</span> Our paper "Localizing Knowledge in Diffusion Transformers" is accepted to <i>NeurIPS 2025</i>.
     </div>
