@@ -16,6 +16,9 @@ Furthermore, I have proposed methods for integrating ads into the output of LLMs
 ## News
 <div id="news">
 <div class="news-item">
+    <div class="news-item">
+      <span class="news-date-internship">[May 25]</span> I’ll be joining <i>Susquehanna International Group</i> for Summer 2026, let's do some Finance!
+    </div>
       <span class="news-date-paper">[Jan 26]</span> Our paper "Revisiting the Past: Data Unlearning with Model State History" is accepted to <i>ICLR 2026</i>.
     </div>
     <div class="news-item">
