@@ -1,0 +1,67 @@
+/* News section */
+.news-item {
+  padding: 2px 0;
+  font-size: 15px;
+  border: none;
+  margin: 0;
+}
+
+.news-date-paper,
+.news-date-internship,
+.news-date-blog,
+.news-date-competition {
+  flex-shrink: 0;
+  width: 80px;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.button-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.toggle-button {
+  background-color: #d3d3d3;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-size: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.toggle-button:hover {
+  background-color: #c0c0c0;
+  transform: scale(1.05);
+}
+
+.toggle-button:active {
+  background-color: #a9a9a9;
+  transform: scale(1);
+}
+
+/* Awards section */
+.award-category {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 2px;
+  color: #0a4d8c;
+}
+
+.award-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 10px;
+}
+
+.award-list li {
+  padding: 4px 0;
+  font-size: 14px;
+}
+
+.award-date {
+  font-weight: bold;
+  margin-right: 4px;
+}
