@@ -17,6 +17,19 @@
   font-size: 1.05rem;
 }
 
+.header-container .social-icons a:hover {
+  background-color: var(--global-theme-color) !important;
+  color: #fff !important;
+  transform: scale(1.15);
+}
+
+@media (prefers-color-scheme: dark) {
+  .header-container .social-icons a:hover {
+    background-color: var(--global-hover-color) !important;
+    color: #1c1c1c !important;
+  }
+}
+
 /* Links — use the site's own theme colors instead of the default blue */
 a {
   color: var(--global-theme-color);
