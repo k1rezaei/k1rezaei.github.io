@@ -65,18 +65,27 @@ a:hover {
 /* Section title accent */
 section h2 {
   position: relative;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
   padding-bottom: 10px;
+  text-align: center;
 }
 
 section h2::after {
   content: "";
   position: absolute;
   left: 0;
+  right: 0;
   bottom: 0;
-  width: 46px;
   height: 3px;
   border-radius: 3px;
   background: linear-gradient(to right, var(--global-theme-color), var(--global-hover-color));
+}
+
+#publications {
+  margin-top: 2px;
+  margin-bottom: -15px;
 }
 
 /* Section dividers */
@@ -114,7 +123,7 @@ hr.section-divider {
 .news-date-blog,
 .news-date-competition {
   flex-shrink: 0;
-  width: 80px;
+  width: 62px;
   display: inline-block;
   font-weight: bold;
 }
@@ -129,7 +138,7 @@ hr.section-divider {
 }
 
 .publications-box {
-  max-height: 600px;
+  max-height: 430px;
   overflow-y: auto;
   padding-right: 6px;
   scrollbar-width: thin;

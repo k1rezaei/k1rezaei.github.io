@@ -4,7 +4,7 @@
 <div class="award-category-block">
 <h4 title="International Collegiate Programming Contest"><img class="award-header-logo" src="assets/img/logos/icpc.png" alt="ICPC logo"> ICPC</h4>
 <ul class="award-list">
-  <li><span class="award-badge award-tier-special">Finalist</span><span class="award-date">2023</span><span class="award-text award-text-nowrap"><strong>ICPC World Finalist</strong> <span class="award-note">(visa issue)</span></span></li>
+  <li><span class="award-badge award-tier-special">Finalist</span><span class="award-date">2023</span><span class="award-text award-text-nowrap"><strong>ICPC World Finalist</strong> <span class="award-note">(no attend due visa issues)</span></span></li>
   <li><span class="award-badge award-tier-bronze">3rd</span><span class="award-date">2023</span><span class="award-text"><strong>3rd Place</strong>, <i title="ICPC North America Championship">ICPC NAC</i></span></li>
   <li><span class="award-badge award-tier-special">33rd</span><span class="award-date">2020</span><span class="award-text"><strong>33rd Place</strong>, <i>ICPC World Finals</i></span></li>
   <li><span class="award-badge award-tier-gold">1st</span><span class="award-date">2019</span><span class="award-text"><strong>1st Place</strong>, <i>Asian Regional Contest</i></span></li>
