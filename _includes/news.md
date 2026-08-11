@@ -1,6 +1,5 @@
 ## News
-<div id="news">
-<div class="news-item">
+<div id="news" class="news-box">
     <div class="news-item">
       <span class="news-date-internship">[Jun 26]</span> Maryland Today <a href="https://today.umd.edu/umd-team-develops-precise-undo-button-for-ai-memory">covered</a> our work on machine unlearning!
     </div>
@@ -38,12 +37,6 @@
     <div class="news-item">
       <span class="news-date-internship">[Mar 24]</span> I will be joining <i>MOSAIC at Allen Institute for AI (Ai2)</i> as <i>Research Intern</i> in summer 2024!
     </div>
-  <div class="button-container">
-    <button id="show-more-button" class="toggle-button" onclick="toggleNews()">Show more</button>
-  </div>
-</div>
-
-<div id="more-news" style="display: none;">
     <div class="news-item">
       <span class="news-date-paper">[Jan 24]</span> Our paper "PRIME: Prioritizing Interpretability in Failure Mode Extraction" is accepted to <i>ICLR 2024</i>.
     </div>
@@ -77,7 +70,4 @@
     <div class="news-item">
       <span class="news-date-competition">[Feb 23]</span> Our team, UMD RED, is qualified to compete in ICPC NAC 2023 at UCF.
     </div>
-  <div class="button-container">
-    <button class="toggle-button" onclick="toggleNews()">Show less</button>
-  </div>
 </div>

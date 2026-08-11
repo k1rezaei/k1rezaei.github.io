@@ -302,7 +302,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  width: min(1000px, 94vw);
   margin:0 auto;
 }
 
@@ -438,7 +438,7 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width: calc(100% - 310px);
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;

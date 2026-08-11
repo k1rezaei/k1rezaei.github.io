@@ -1,6 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
+<div class="publications-box">
 <ol class="bibliography">
 
 {% include publications/revisiting-the-past-data-unlearning.md %}
@@ -46,4 +47,5 @@
 <sup>&#945;, &#946;</sup> denotes alphabetical order of authorship. <br>
 * denotes equal contribution. </i></font>
 </ol>
+</div>
 </div>

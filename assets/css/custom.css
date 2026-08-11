@@ -1,9 +1,64 @@
+/* X (Twitter) icon, sized to match the Font Awesome icons beside it */
+.icon-x {
+  vertical-align: -0.15em;
+}
+
+/* Profile header */
+.header-container .social-icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+
+.header-container .social-icons a {
+  width: 2.1rem;
+  height: 2.1rem;
+  line-height: 2.2rem;
+  font-size: 1.05rem;
+}
+
+/* Links — use the site's own theme colors instead of the default blue */
+a {
+  color: var(--global-theme-color);
+}
+
+a:hover {
+  color: var(--global-hover-color);
+}
+
+/* Bio */
+.bio-text {
+  text-align: justify;
+}
+
+/* Section dividers */
+hr.section-divider {
+  border: none;
+  height: 1px;
+  margin: 36px 0;
+  background: linear-gradient(to right, transparent, var(--global-theme-color) 50%, transparent);
+  opacity: 0.35;
+}
+
 /* News section */
+.news-box {
+  max-height: 205px;
+  overflow-y: auto;
+  padding-right: 6px;
+  scrollbar-width: thin;
+  -webkit-mask-image: linear-gradient(to bottom, black calc(100% - 22px), transparent 100%);
+  mask-image: linear-gradient(to bottom, black calc(100% - 22px), transparent 100%);
+}
+
 .news-item {
-  padding: 2px 0;
+  padding: 4px 0;
   font-size: 15px;
   border: none;
   margin: 0;
+}
+
+.news-item + .news-item {
+  border-top: 1px solid rgba(128, 128, 128, 0.15);
 }
 
 .news-date-paper,
@@ -16,30 +71,70 @@
   font-weight: bold;
 }
 
-.button-container {
-  text-align: center;
-  margin: 20px 0;
+/* Publications box */
+.publications .author {
+  font-size: 13.5px;
 }
 
-.toggle-button {
-  background-color: #d3d3d3;
-  color: black;
-  border: none;
-  border-radius: 5px;
-  padding: 5px 10px;
-  font-size: 10px;
-  cursor: pointer;
-  transition: background-color 0.3s, transform 0.2s;
+.publications .periodical {
+  font-size: 13px;
 }
 
-.toggle-button:hover {
-  background-color: #c0c0c0;
-  transform: scale(1.05);
+.publications-box {
+  max-height: 600px;
+  overflow-y: auto;
+  padding-right: 6px;
+  scrollbar-width: thin;
+  -webkit-mask-image: linear-gradient(to bottom, black calc(100% - 40px), transparent 100%);
+  mask-image: linear-gradient(to bottom, black calc(100% - 40px), transparent 100%);
 }
 
-.toggle-button:active {
-  background-color: #a9a9a9;
-  transform: scale(1);
+/* Research Experience */
+.industry-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.industry-logo {
+  height: 20px;
+  width: 20px;
+  object-fit: contain;
+  vertical-align: middle;
+  margin-right: 4px;
+  margin-top: -3px;
+}
+
+.industry-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 2px 12px;
+}
+
+.industry-org {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.industry-role {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.industry-time {
+  font-size: 13px;
+  color: #777;
+  white-space: nowrap;
+}
+
+@media (prefers-color-scheme: dark) {
+  .industry-time {
+    color: #aaa;
+  }
 }
 
 /* Awards section */
