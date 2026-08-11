@@ -9,6 +9,11 @@ advised by <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a> and <a href
 Furthermore, I have proposed methods for integrating ads into the output of LLMs as a strategy to monetize them effectively.
 </p>
 
+<details class="more-about-me">
+  <summary>More about me</summary>
+  <p>When I&rsquo;m not doing research, I&rsquo;m usually playing soccer or FIFA, going on hikes, watching YouTube, getting lost in combinatorics, or keeping up with politics and society.</p>
+</details>
+
 <hr class="section-divider">
 
 {% include_relative _includes/news.md %}
