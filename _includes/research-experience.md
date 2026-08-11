@@ -1,4 +1,4 @@
-## Research Experience
+## Affiliation & Research
 <div class="industry-list">
 
   <img class="industry-logo" src="assets/img/logos/umd.png" alt="University of Maryland logo">
