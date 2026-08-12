@@ -21,4 +21,8 @@
   <span class="industry-org">Adobe Research <span class="industry-role">(Research Intern)</span> <span class="industry-focus">&mdash; text-to-diagram scientific visualization</span></span>
   <span class="industry-time">05/25 &ndash; 08/25</span>
 
+  <img class="industry-logo" src="assets/img/logos/epfl.png" alt="EPFL logo">
+  <span class="industry-org">TML Lab, EPFL <span class="industry-role">(Research Intern)</span> <span class="industry-focus">&mdash; SGD convergence rate</span></span>
+  <span class="industry-time">07/21 &ndash; 09/21</span>
+
 </div>
