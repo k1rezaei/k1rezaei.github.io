@@ -28,6 +28,11 @@ favicon_dark: ./assets/img/favicon-dark.png
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
 
+# Analytics (private, only visible to you at https://<code>.goatcounter.com)
+# Sign up for free at https://www.goatcounter.com/ and put the "code" you choose
+# (the part before ".goatcounter.com") below. Leave blank to disable.
+goatcounter_code: keivanrezaei
+
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
