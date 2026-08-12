@@ -6,6 +6,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+      (function () {
+        var stored = null
+        try { stored = localStorage.getItem('theme') } catch (e) {}
+        var theme = stored || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+        document.documentElement.setAttribute('data-theme', theme)
+      })()
+    </script>
     <meta name="description" content="{{ site.description }}">
     {% if site.keywords %}
     <meta name="keywords" content="{{ site.keywords }}">
@@ -88,6 +96,23 @@
         <br>
         </div>
       </header>
+
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <svg class="theme-icon-sun" viewBox="0 0 24 24" width="1.05rem" height="1.05rem" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="4.5" fill="currentColor" stroke="none"/>
+          <line x1="12" y1="1.5" x2="12" y2="3.5"/>
+          <line x1="12" y1="20.5" x2="12" y2="22.5"/>
+          <line x1="1.5" y1="12" x2="3.5" y2="12"/>
+          <line x1="20.5" y1="12" x2="22.5" y2="12"/>
+          <line x1="4.6" y1="4.6" x2="6" y2="6"/>
+          <line x1="18" y1="18" x2="19.4" y2="19.4"/>
+          <line x1="4.6" y1="19.4" x2="6" y2="18"/>
+          <line x1="18" y1="6" x2="19.4" y2="4.6"/>
+        </svg>
+        <svg class="theme-icon-moon" viewBox="0 0 24 24" width="1.05rem" height="1.05rem" fill="currentColor" aria-hidden="true">
+          <path d="M20.5 14.5A8.5 8.5 0 1 1 9.5 3.5a7 7 0 0 0 11 11z"/>
+        </svg>
+      </button>
       <section>
 
       {{ content }}
@@ -104,6 +129,7 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/theme-toggle.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

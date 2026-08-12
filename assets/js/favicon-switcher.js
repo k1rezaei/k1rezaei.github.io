@@ -26,9 +26,14 @@ function initSwitcher(delay) {
 
   function faviconApplyLoop() {
     var matched
+    var theme = document.documentElement.getAttribute('data-theme')
 
     links.forEach(function(link) {
-      if (window.matchMedia(link.media).matches) {
+      if (theme === 'dark' && link.media.indexOf('dark') !== -1) {
+        matched = link
+      } else if (theme === 'light' && link.media.indexOf('light') !== -1) {
+        matched = link
+      } else if (!theme && window.matchMedia(link.media).matches) {
         matched = link
       }
     })
