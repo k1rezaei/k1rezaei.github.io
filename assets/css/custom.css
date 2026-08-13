@@ -1,3 +1,8 @@
+/* Warm off-white background for light mode */
+html[data-theme="light"] body {
+  background-color: #fdf8f2;
+}
+
 /* X (Twitter) icon, sized to match the Font Awesome icons beside it */
 .icon-x {
   vertical-align: -0.15em;
