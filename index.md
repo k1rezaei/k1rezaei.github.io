@@ -4,8 +4,8 @@ layout: homepage
 
 ## Bio
 <p class="bio-text">
-I am a fifth-year Ph.D. candidate in the Department of Computer Science at the University of Maryland,
-advised by <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a> and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>. My research focuses on the <b>interpretability</b> of generative AI models from both a model perspective—<b>localizing knowledge</b> within models, detecting, and explaining their <b>failure modes</b>—and a <b>data</b> perspective, analyzing the impact of individual data points on a model through challenges like <b>unlearning</b> and <b>data selection</b> for language model <b>pretraining</b>.
+I recently defended my Ph.D. in the Department of Computer Science at the University of Maryland,
+advised by <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a> and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>. My research studies generative models through the lens of their <b>data</b>&mdash;how individual training examples shape what a model knows and does&mdash;spanning <b>data selection</b> for language model <b>pretraining</b> and <b>unlearning</b> the data a model should never have learned. From a model perspective, I work toward more <b>transparent</b> AI: <b>localizing knowledge</b> inside models so that it can be <b>edited</b>, and explaining and resolving their <b>failure modes</b>.
 Furthermore, I have proposed methods to integrate ads into the output of LLMs as a strategy to monetize them.
 </p>
 <details class="more-about-me">
