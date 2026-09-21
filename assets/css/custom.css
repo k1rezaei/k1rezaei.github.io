@@ -12,7 +12,7 @@ html[data-theme="light"] body {
 /* The portrait is a transparent cutout, so it sits straight on the page
    instead of inside the theme's padded disc. */
 .header-container .image.avatar img {
-  width: 170px;
+  width: 150px;
   height: auto;
   padding: 0;
   border-radius: 0;
