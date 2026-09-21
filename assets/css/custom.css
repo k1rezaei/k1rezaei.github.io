@@ -9,22 +9,13 @@ html[data-theme="light"] body {
 }
 
 /* Profile header */
-/* Size the avatar explicitly rather than inheriting the theme's padded box,
-   so the circle hugs the photo and the dark-mode ring sits on its edge. */
+/* The portrait is a transparent cutout, so it sits straight on the page
+   instead of inside the theme's padded disc. */
 .header-container .image.avatar img {
-  width: 150px;
-  height: 150px;
+  width: 170px;
+  height: auto;
   padding: 0;
-  object-fit: cover;
-  border-radius: 50%;
-  transition: filter 0.2s ease, box-shadow 0.2s ease;
-}
-
-/* The portrait has a white background, which glares as a bright disc against
-   the dark page. Ease it down and ring the edge so it reads as intentional. */
-html[data-theme="dark"] .header-container .image.avatar img {
-  filter: brightness(0.86);
-  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.25);
+  border-radius: 0;
 }
 
 .header-container .social-icons {
@@ -67,14 +58,14 @@ html[data-theme="dark"] .header-container .social-icons a:hover {
   border: 1px solid rgba(128, 128, 128, 0.25);
   border-radius: 100%;
   background: var(--global-bg-color, #fff);
-  color: #043361;
+  color: var(--global-theme-color);
   cursor: pointer;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
   transition: transform 0.15s ease, background-color 0.15s ease, color 0.15s ease;
 }
 
 html[data-theme="dark"] .theme-toggle {
-  color: #3eb7f0;
+  color: var(--global-theme-color);
   background: #20212b;
   border-color: rgba(255, 255, 255, 0.15);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
@@ -111,6 +102,32 @@ html[data-theme="light"] .theme-toggle .theme-icon-moon {
 
 html[data-theme="dark"] .theme-toggle .theme-icon-sun {
   display: block;
+}
+
+/* The theme hardcodes navy (#043361) headings and blue (#3eb7f0) in dark mode,
+   and wins on specificity and !important. Point them at the site's own accent
+   so no stray blue survives. */
+h1, h2, h3, h4, h5, h6,
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6 {
+  color: var(--global-theme-color);
+}
+
+.social-icons a,
+html[data-theme="dark"] .social-icons a {
+  color: var(--global-theme-color) !important;
+}
+
+html[data-theme="dark"] a {
+  color: var(--global-theme-color);
+}
+
+html[data-theme="dark"] a:hover {
+  color: var(--global-hover-color);
 }
 
 /* Links — use the site's own theme colors instead of the default blue.
