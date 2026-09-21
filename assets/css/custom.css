@@ -9,6 +9,24 @@ html[data-theme="light"] body {
 }
 
 /* Profile header */
+/* Size the avatar explicitly rather than inheriting the theme's padded box,
+   so the circle hugs the photo and the dark-mode ring sits on its edge. */
+.header-container .image.avatar img {
+  width: 150px;
+  height: 150px;
+  padding: 0;
+  object-fit: cover;
+  border-radius: 50%;
+  transition: filter 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* The portrait has a white background, which glares as a bright disc against
+   the dark page. Ease it down and ring the edge so it reads as intentional. */
+html[data-theme="dark"] .header-container .image.avatar img {
+  filter: brightness(0.86);
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.25);
+}
+
 .header-container .social-icons {
   display: flex;
   justify-content: center;
@@ -95,9 +113,12 @@ html[data-theme="dark"] .theme-toggle .theme-icon-sun {
   display: block;
 }
 
-/* Links — use the site's own theme colors instead of the default blue */
+/* Links — use the site's own theme colors instead of the default blue.
+   Links read as black in light mode, so a heavier weight carries the
+   emphasis that color used to. */
 a {
   color: var(--global-theme-color);
+  font-weight: 600;
 }
 
 a:hover {
