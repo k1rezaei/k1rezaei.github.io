@@ -1,3 +1,8 @@
+/* Heading color: a dark rose that clears AAA contrast (7.08) on the page. */
+:root {
+  --heading-color: #8C3A46;
+}
+
 /* Warm off-white background for light mode */
 html[data-theme="light"] body {
   background-color: #fdf8f2;
@@ -107,9 +112,13 @@ html[data-theme="dark"] .theme-toggle .theme-icon-sun {
 }
 
 /* The theme hardcodes navy (#043361) headings and blue (#3eb7f0) in dark mode,
-   and wins on specificity and !important. Point them at the site's own accent
-   so no stray blue survives. */
-h1, h2, h3, h4, h5, h6,
+   and wins on specificity and !important, so these have to match its selectors.
+   Headings carry their own color rather than the page accent: dark rose in
+   light mode, and the warm accent in dark mode, where rose would go muddy. */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading-color);
+}
+
 html[data-theme="dark"] h1,
 html[data-theme="dark"] h2,
 html[data-theme="dark"] h3,
