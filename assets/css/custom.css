@@ -9,13 +9,21 @@ html[data-theme="light"] body {
 }
 
 /* Profile header */
-/* The portrait is a transparent cutout, so it sits straight on the page
-   instead of inside the theme's padded disc. */
+/* Circular crop at the original size. The portrait is a transparent cutout,
+   so the disc is filled here rather than by the photo's own white background:
+   a clipped cutout alone reads as a chopped silhouette, not as a circle, and
+   this lets dark mode use a disc that does not glare. */
 .header-container .image.avatar img {
   width: 150px;
-  height: auto;
+  height: 150px;
   padding: 0;
-  border-radius: 0;
+  object-fit: cover;
+  border-radius: 50%;
+  background-color: #ffffff;
+}
+
+html[data-theme="dark"] .header-container .image.avatar img {
+  background-color: #2c2f3d;
 }
 
 .header-container .social-icons {
