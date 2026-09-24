@@ -189,6 +189,13 @@ a:hover {
   opacity: 0.85;
 }
 
+/* The brick is the widest viewBox of the set, so it needs less height to
+   sit at the same visual weight as the rest. */
+.glyph-brick {
+  height: 0.72em;
+  vertical-align: -0.02em;
+}
+
 html[data-theme="dark"] .more-about-me p {
   color: #aaa;
 }
