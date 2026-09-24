@@ -3,11 +3,11 @@
     <div class="news-item">
       <span class="news-date-paper">[Sep 26]</span> Our paper "SpecHop: Continuous Speculation for Accelerating Multi-Hop Retrieval Agents" is accepted to <i>NeurIPS 2026</i>.
     </div>
-    <div class="news-item">
+    <div class="news-item news-item-milestone">
       <span class="news-date-defense">[Sep 26]</span> I <a href="https://x.com/RezaeiKeivan/status/2100958234009850218">defended</a> my Ph.D. thesis! Slides are available on <a href="https://github.com/k1rezaei/thesis-slides">GitHub</a>.
     </div>
     <div class="news-item">
-      <span class="news-date-internship">[Jun 26]</span> Maryland Today <a href="https://today.umd.edu/umd-team-develops-precise-undo-button-for-ai-memory">covered</a> our work on machine unlearning!
+      <span class="news-date-press">[Jun 26]</span> Maryland Today <a href="https://today.umd.edu/umd-team-develops-precise-undo-button-for-ai-memory">covered</a> our work on machine unlearning!
     </div>
     <div class="news-item">
       <span class="news-date-internship">[Jun 26]</span> I'll be joining <i>Susquehanna International Group</i> for Summer 2026, let's do some Finance!

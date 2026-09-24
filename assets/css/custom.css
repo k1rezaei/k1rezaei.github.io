@@ -230,9 +230,11 @@ hr.section-divider {
 }
 
 .news-item {
-  padding: 4px 0;
+  padding: 4px 0 4px 12px;
   font-size: 14px;
   border: none;
+  /* Held open on every row so a milestone's rule costs no layout shift. */
+  border-left: 2px solid transparent;
   margin: 0;
 }
 
@@ -240,10 +242,37 @@ hr.section-divider {
   border-top: 1px solid rgba(128, 128, 128, 0.15);
 }
 
+/* Milestones: the defense today, a job announcement later. */
+.news-item-milestone {
+  border-left-color: var(--global-theme-color);
+}
+
+/* The accent is nearly black, so a rose date beside a black one would not
+   read as different. The routine categories recede instead, and that
+   contrast is what marks the rest out. */
+.news-date-paper,
+.news-date-blog,
+.news-date-press {
+  color: #8d8d8d;
+}
+
+.news-date-defense,
+.news-date-internship,
+.news-date-competition {
+  color: var(--global-theme-color);
+}
+
+html[data-theme="dark"] .news-date-paper,
+html[data-theme="dark"] .news-date-blog,
+html[data-theme="dark"] .news-date-press {
+  color: #80828f;
+}
+
 .news-date-paper,
 .news-date-defense,
 .news-date-internship,
 .news-date-blog,
+.news-date-press,
 .news-date-competition {
   flex-shrink: 0;
   width: 62px;
