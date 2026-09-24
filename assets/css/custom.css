@@ -179,12 +179,15 @@ a:hover {
   margin: 8px auto 0 0;
 }
 
-/* Brick glyph beside LEGO, inheriting the aside's color and size. */
-.lego-brick {
-  width: 1.15em;
-  height: 0.8em;
-  vertical-align: -0.04em;
-  margin-left: 0.18em;
+/* Glyphs beside the things they name. Height is set and width left to the
+   viewBox, so each keeps its own proportions, and currentColor takes the
+   aside's color for free. */
+.text-glyph {
+  height: 0.95em;
+  width: auto;
+  vertical-align: -0.14em;
+  margin-left: 0.2em;
+  opacity: 0.85;
 }
 
 html[data-theme="dark"] .more-about-me p {
@@ -197,7 +200,7 @@ section h2 {
   width: fit-content;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   text-align: center;
 }
 
