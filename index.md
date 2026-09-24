@@ -10,7 +10,7 @@ Furthermore, I have proposed methods to integrate ads into the output of LLMs as
 </p>
 <details class="more-about-me">
   <summary>More about me</summary>
-  <p>Outside of research, I&rsquo;m usually on the soccer pitch or playing FIFA, exploring hiking trails, or diving into combinatorics puzzles.<br>I also keep a close eye on global politics and social trends.</p>
+  <p>Outside of research, I&rsquo;m usually on the soccer pitch, building LEGO and other puzzles, or thinking about combinatorics problems.<br>I also keep a close eye on global politics and social trends.</p>
 </details>
 
 <hr class="section-divider">
