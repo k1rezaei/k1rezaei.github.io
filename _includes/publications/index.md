@@ -4,6 +4,9 @@
 <div class="publications-box">
 <ol class="bibliography">
 
+{% include publications/spechop.md %}
+<br>
+
 {% include publications/revisiting-the-past-data-unlearning.md %}
 <br>
 
