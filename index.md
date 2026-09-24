@@ -10,7 +10,7 @@ Furthermore, I have proposed methods to integrate ads into the output of LLMs as
 </p>
 <details class="more-about-me">
   <summary>More about me</summary>
-  <p>Outside of research, I&rsquo;m usually on the soccer pitch, building LEGO and other puzzles, or thinking about combinatorics problems.<br>I also keep a close eye on global politics and social trends.</p>
+  <p>Outside of research, I&rsquo;m usually on the soccer pitch, building LEGO<svg class="lego-brick" viewBox="0 0 26 18" fill="currentColor" aria-hidden="true"><rect x="4" y="1" width="6" height="5.5" rx="1.6"/><rect x="16" y="1" width="6" height="5.5" rx="1.6"/><rect x="1" y="5" width="24" height="12" rx="2.2"/></svg> and other puzzles, or thinking about combinatorics problems.<br>I also keep a close eye on global politics and social trends.</p>
 </details>
 
 <hr class="section-divider">

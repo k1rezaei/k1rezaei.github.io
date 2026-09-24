@@ -176,8 +176,15 @@ a:hover {
   font-size: 13.5px;
   font-style: italic;
   color: #777;
-  max-width: 400px;
   margin: 8px auto 0 0;
+}
+
+/* Brick glyph beside LEGO, inheriting the aside's color and size. */
+.lego-brick {
+  width: 1.15em;
+  height: 0.8em;
+  vertical-align: -0.04em;
+  margin-left: 0.18em;
 }
 
 html[data-theme="dark"] .more-about-me p {
@@ -254,25 +261,10 @@ html[data-theme="dark"] .news-item-milestone {
   background: linear-gradient(to right, rgba(175, 99, 45, 0.10), transparent 70%);
 }
 
-/* The accent is nearly black, so a rose date beside a black one would not
-   read as different. The routine categories recede instead, and that
-   contrast is what marks the rest out. */
-.news-date-paper,
-.news-date-blog,
-.news-date-press {
-  color: #8d8d8d;
-}
-
 .news-date-defense,
 .news-date-internship,
 .news-date-competition {
   color: var(--global-theme-color);
-}
-
-html[data-theme="dark"] .news-date-paper,
-html[data-theme="dark"] .news-date-blog,
-html[data-theme="dark"] .news-date-press {
-  color: #80828f;
 }
 
 .news-date-paper,
