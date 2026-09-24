@@ -234,7 +234,7 @@ hr.section-divider {
   font-size: 14px;
   border: none;
   /* Held open on every row so a milestone's rule costs no layout shift. */
-  border-left: 2px solid transparent;
+  border-left: 3px solid transparent;
   margin: 0;
 }
 
@@ -242,9 +242,16 @@ hr.section-divider {
   border-top: 1px solid rgba(128, 128, 128, 0.15);
 }
 
-/* Milestones: the defense today, a job announcement later. */
+/* Milestones: the defense, every role joined, and the ICPC results.
+   Papers and blogs are the routine traffic here and stay plain. */
 .news-item-milestone {
   border-left-color: var(--global-theme-color);
+  background: linear-gradient(to right, rgba(69, 22, 34, 0.055), transparent 70%);
+  font-weight: 500;
+}
+
+html[data-theme="dark"] .news-item-milestone {
+  background: linear-gradient(to right, rgba(175, 99, 45, 0.10), transparent 70%);
 }
 
 /* The accent is nearly black, so a rose date beside a black one would not
