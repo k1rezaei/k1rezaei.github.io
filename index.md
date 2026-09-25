@@ -4,8 +4,8 @@ layout: homepage
 
 ## Bio
 <p class="bio-text">
-I recently defended my <b>Ph.D. in Computer Science</b> at the <b>University of Maryland</b>,
-advised by <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a> and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>. My research studies <b>generative models</b> from two perspectives: data and model. From data, I analyze how <b>training samples</b> affect <b>model behavior</b> through the problems of <b>pretraining data selection</b> and <b>machine unlearning</b>. From model, I study the problem of <b>knowledge localization</b> and <b>model editing</b>. Additionally, I have proposed methods to <b>monetize large language models</b> by integrating <b>advertisements</b> into their outputs.
+I recently defended my Ph.D. in Computer Science at the University of Maryland,
+advised by <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a> and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>. My research studies generative models from two perspectives: <b>data</b> and <b>model</b>. From data, I analyze how training samples affect model behavior through the problems of <b>pretraining data selection</b> and <b>machine unlearning</b>. From model, I study the problem of <b>knowledge localization</b> and <b>model editing</b>. Additionally, I have proposed methods to monetize large language models by integrating advertisements into their outputs.
 </p>
 <details class="more-about-me">
   <summary>More about me</summary>
