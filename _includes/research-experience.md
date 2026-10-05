@@ -1,6 +1,10 @@
 ## Affiliation & Research
 <div class="industry-list">
 
+  <img class="industry-logo" src="assets/img/logos/google.png" alt="Google logo">
+  <span class="industry-org">Google Research <span class="industry-role">(Research Scientist)</span> <span class="industry-focus">&mdash; New York</span></span>
+  <span class="industry-time">10/26 &ndash; Now</span>
+
   <img class="industry-logo" src="assets/img/logos/umd.png" alt="University of Maryland logo">
   <span class="industry-org">Reliable AI Lab, University of Maryland <span class="industry-role">(Research Assistant)</span></span>
   <span class="industry-time">09/22 &ndash; Now</span>

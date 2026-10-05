@@ -1,5 +1,8 @@
 ## News
 <div id="news" class="news-box">
+    <div class="news-item news-item-milestone">
+      <span class="news-date-job">[Oct 26]</span> I'm joining <i>Google Research</i> in New York as a Research Scientist!
+    </div>
     <div class="news-item">
       <span class="news-date-paper">[Sep 26]</span> Our paper "SpecHop: Continuous Speculation for Accelerating Multi-Hop Retrieval Agents" is accepted to <i>NeurIPS 2026</i>.
     </div>
