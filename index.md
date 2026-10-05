@@ -4,7 +4,7 @@ layout: homepage
 
 ## Bio
 <p class="bio-text">
-I joined Google Research as a Research Scientist, where I currently work. I recently defended my Ph.D. in Computer Science at the University of Maryland,
+I work as a Research Scientist at Google Research. I defended my Ph.D. in Computer Science at the University of Maryland,
 advised by <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a> and <a href="https://www.cs.umd.edu/~hajiagha/">Prof. Hajiaghayi</a>. My research studies generative models from two perspectives: <b>data</b>, through <b>pretraining data selection</b> and <b>machine unlearning</b>, and <b>model</b>, through <b>knowledge localization</b> and <b>model editing</b>. I have also proposed methods to monetize large language models by integrating advertisements into their outputs.
 </p>
 <details class="more-about-me">
