@@ -144,6 +144,15 @@ a {
   font-weight: 600;
 }
 
+/* <autocolor> wraps the affiliation line under the avatar; its name implies
+   it should take the surrounding text color rather than the link color.
+   The rule above overrides that, so restore it here to match its plain
+   siblings (position, email) instead of standing out as a bold rose link. */
+a autocolor {
+  color: var(--global-text-color);
+  font-weight: 400;
+}
+
 a:hover {
   color: var(--global-hover-color);
 }
