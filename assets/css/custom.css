@@ -338,6 +338,14 @@ html[data-theme="dark"] .publications ol.bibliography li .teaser:hover {
   margin-top: 10px;
 }
 
+/* Separates full-time roles from internships. The grid's own row-gap
+   already gives it space on both sides, so it stays a bare hairline. */
+.industry-divider {
+  grid-column: 1 / -1;
+  height: 1px;
+  background: rgba(128, 128, 128, 0.18);
+}
+
 .industry-logo {
   display: block;
   box-sizing: border-box;
