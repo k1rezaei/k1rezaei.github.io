@@ -657,3 +657,11 @@ html[data-theme="dark"] .award-note {
 html[data-theme="dark"] .service-year {
   color: #aaa;
 }
+
+/* Footnote inline logos */
+.footnote-logo {
+  height: 1.05em;
+  width: auto;
+  vertical-align: -0.15em;
+  margin-right: 0.25em;
+}
