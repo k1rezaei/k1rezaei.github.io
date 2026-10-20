@@ -1,8 +1,5 @@
 <li>
 <div class="pub-row">
-  <div class="abbr">
-    <abbr class="badge">NeurIPS</abbr>
-  </div>
   <div class="pub-content">
     <div class="title"><a href="https://arxiv.org/abs/2505.18832">Localizing Knowledge in Diffusion Transformers</a></div>
     <div class="author">Arman Zarei, Samyadeep Basu, <strong><b>Keivan Rezaei</b></strong>, Zihao Lin, Sayan Nag, Soheil Feizi</div>

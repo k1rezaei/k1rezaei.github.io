@@ -1,8 +1,5 @@
 <li>
 <div class="pub-row">
-  <div class="abbr">
-    <abbr class="badge">EC</abbr>
-  </div>
   <div class="pub-content">
     <div class="title"><a href="https://arxiv.org/abs/2305.03203">Multi-agent Delegated Search</a></div>
     <div class="author"><sup>&#945;, &#946;</sup> MohammadTaghi Hajiaghayi, <strong><b>Keivan Rezaei</b></strong>, Suho Shin</div>

@@ -1,8 +1,5 @@
 <li>
 <div class="pub-row">
-  <div class="abbr">
-    <abbr class="badge">ICLR</abbr>
-  </div>
   <div class="pub-content">
     <div class="title"><a href="https://arxiv.org/abs/2310.00164">PRIME: Prioritizing Interpretability in Failure Mode Extraction</a></div>
     <div class="author"><strong><b>Keivan Rezaei*</b></strong>, Mehrdad Saberi*, Mazda Moayeri, Soheil Feizi</div>

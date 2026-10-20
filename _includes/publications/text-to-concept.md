@@ -1,8 +1,5 @@
 <li>
 <div class="pub-row">
-  <div class="abbr">
-    <abbr class="badge">ICML</abbr>
-  </div>
   <div class="pub-content">
     <div class="title"><a href="https://arxiv.org/abs/2305.06386">Text-To-Concept (and Back) via Cross-Model Alignment</a></div>
     <div class="author">Mazda Moayeri*, <strong><b>Keivan Rezaei*</b></strong>, Maziar Sanjabi, Soheil Feizi</div>

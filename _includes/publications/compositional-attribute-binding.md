@@ -1,8 +1,5 @@
 <li>
 <div class="pub-row">
-  <div class="abbr">
-    <abbr class="badge">arXiv</abbr>
-  </div>
   <div class="pub-content">
     <div class="title"><a href="https://arxiv.org/abs/2406.07844">Improving Compositional Attribute Binding in Text-to-Image Generative Models via Enhanced Text Embeddings</a></div>
     <div class="author">Arman Zarei*, <strong><b>Keivan Rezaei*</b></strong>, Samyadeep Basu, Mehrdad Saberi, Mazda Moayeri, Priyatham Kattakinda, Soheil Feizi</div>

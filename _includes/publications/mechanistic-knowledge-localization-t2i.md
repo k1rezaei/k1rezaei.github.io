@@ -1,8 +1,5 @@
 <li>
 <div class="pub-row">
-  <div class="abbr">
-    <abbr class="badge">ICML</abbr>
-  </div>
   <div class="pub-content">
     <div class="title"><a href="https://arxiv.org/abs/2405.01008">On Mechanistic Knowledge Localization in Text-to-Image Generative Models</a></div>
     <div class="author">Samyadeep Basu*, <strong><b>Keivan Rezaei*</b></strong>, Ryan Rossi, Cherry Zhao, Vlad Morariu, Varun Manjunatha, Soheil Feizi</div>

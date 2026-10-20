@@ -334,33 +334,7 @@ html[data-theme="dark"] .news-item-milestone {
 }
 
 .publications .pub-row {
-  display: grid;
-  grid-template-columns: 64px 1fr;
-  column-gap: 14px;
-  align-items: start;
-}
-
-.publications ol.bibliography li .abbr {
-  height: auto;
-  margin: 2px 0 0;
-  padding: 0;
-  position: static;
-}
-
-.publications ol.bibliography li .abbr abbr.badge {
-  position: static;
   display: block;
-  width: 100%;
-  box-sizing: border-box;
-  padding: 4px 6px;
-  font-size: 10.5px;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-  border-radius: 4px;
-  background-color: var(--global-theme-color) !important;
-  color: #fff !important;
-  box-shadow: none;
-  text-align: center;
 }
 
 .publications .pub-content {
@@ -485,13 +459,6 @@ html[data-theme="dark"] .publications ol.bibliography li .links a.btn:hover {
 
 html[data-theme="dark"] .publications-note {
   color: #9a9ea8;
-}
-
-@media (max-width: 480px) {
-  .publications .pub-row {
-    grid-template-columns: 56px 1fr;
-    column-gap: 10px;
-  }
 }
 
 /* Research Experience */

@@ -1,8 +1,5 @@
 <li>
 <div class="pub-row">
-  <div class="abbr">
-    <abbr class="badge">ACM</abbr>
-  </div>
   <div class="pub-content">
     <div class="title"><a href="https://www.sigecom.org/exchanges/volume_22/2/FEIZI.pdf">Online Advertisements with LLMs: Opportunities and Challenges</a></div>
     <div class="author"><sup>&#945;, &#946;</sup> Soheil Feizi, MohammadTaghi Hajiaghayi, <strong><b>Keivan Rezaei</b></strong>, Suho Shin</div>

@@ -1,8 +1,5 @@
 <li>
 <div class="pub-row">
-  <div class="abbr">
-    <abbr class="badge">ICML</abbr>
-  </div>
   <div class="pub-content">
     <div class="title"><a href="https://arxiv.org/abs/2302.02300">Run-Off Election: Improved Provable Defense against Data Poisoning Attacks</a></div>
     <div class="author"><strong><b>Keivan Rezaei*</b></strong>, Kiarash Banihashem*, Atoosa Chegini, Soheil Feizi</div>

@@ -1,8 +1,5 @@
 <li>
 <div class="pub-row">
-  <div class="abbr">
-    <abbr class="badge">AAAI</abbr>
-  </div>
   <div class="pub-content">
     <div class="title"><a href="https://arxiv.org/abs/2310.04884">Regret Analysis of Repeated Delegated Choice</a></div>
     <div class="author"><sup>&#945;, &#946;</sup> MohammadTaghi Hajiaghayi, Mohammad Mahdavi, <strong><b>Keivan Rezaei</b></strong>, Suho Shin</div>

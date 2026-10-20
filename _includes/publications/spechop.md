@@ -1,8 +1,5 @@
 <li>
 <div class="pub-row">
-  <div class="abbr">
-    <abbr class="badge">NeurIPS</abbr>
-  </div>
   <div class="pub-content">
     <div class="title"><a href="https://arxiv.org/abs/2605.21965">SpecHop: Continuous Speculation for Accelerating Multi-Hop Retrieval Agents</a></div>
     <div class="author">Mehrdad Saberi*, <strong><b>Keivan Rezaei*</b></strong>, Soheil Feizi</div>

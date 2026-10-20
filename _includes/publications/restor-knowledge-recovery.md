@@ -1,8 +1,5 @@
 <li>
 <div class="pub-row">
-  <div class="abbr">
-    <abbr class="badge">TMLR</abbr>
-  </div>
   <div class="pub-content">
     <div class="title"><a href="https://arxiv.org/abs/2411.00204">RESTOR: Knowledge Recovery in Machine Unlearning</a></div>
     <div class="author"><strong><b>Keivan Rezaei</b></strong>, Khyathi Chandu, Soheil Feizi, Yejin Choi, Faeze Brahman, Abhilasha Ravichander</div>
