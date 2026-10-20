@@ -464,7 +464,7 @@ html[data-theme="dark"] .publications-note {
 /* Research Experience */
 .industry-list {
   display: grid;
-  grid-template-columns: 26px 1fr auto;
+  grid-template-columns: 21px 1fr auto;
   align-items: start;
   column-gap: 10px;
   row-gap: 10px;
@@ -482,14 +482,14 @@ html[data-theme="dark"] .publications-note {
 .industry-logo {
   display: block;
   box-sizing: border-box;
-  width: 26px;
-  height: 26px;
-  padding: 2px;
+  width: 21px;
+  height: 21px;
+  padding: 0;
   object-fit: contain;
-  background: #fff;
-  border-radius: 5px;
-  margin: 2px 0 0;
-  justify-self: start;
+  background: transparent;
+  border-radius: 4px;
+  margin: 3px 0 0;
+  justify-self: center;
 }
 
 .industry-focus {
