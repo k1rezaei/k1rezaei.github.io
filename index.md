@@ -24,10 +24,3 @@ advised by <a href="https://www.cs.umd.edu/~sfeizi/">Prof. Feizi</a> and <a href
 
 {% include_relative _includes/publications/index.md %}
 
-<hr class="section-divider">
-
-{% include_relative _includes/awards.md %}
-
-<hr class="section-divider">
-
-{% include_relative _includes/services.md %}
